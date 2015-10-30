@@ -25,5 +25,6 @@ youramonkey.com
 
 !blasze.tk/^$~script
 blasze.tk
-catbox.moe/^$script,domain=~files.catbox.moe
+!catbox.moe/^$script,domain=~files.catbox.moe
+catbox.moe
 
