@@ -20,4 +20,5 @@ strawpoll.ga
 
 !blasze.tk/^$~script
 blasze.tk
-catbox.moe/^$~script
+catbox.moe/^$~script,domain=~files.catbox.moe
+
