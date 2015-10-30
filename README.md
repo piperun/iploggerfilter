@@ -18,4 +18,4 @@ This repo for ublock Origin/adblock to filter any site/subsite who's only purpos
 
 
 
-Note: This list is only for any domain name which purpose is only to log your IP, such as an site's only clear motive or having it as an hidden unneccesary functionality (like an url-shortener) which can then be distributed to either a customer(s) or user(s) of that site, however if it's for technical or security reason for the site itself, unless it invades people's privacy or security it will not be added.
+Note: This list is only for any domain name which purpose is only to log your IP, such as an site's only clear motive or having it as an hidden unneccesary functionality (like an url-shortener) which can then be distributed to either a customer(s) or user(s) of that site, however if the site specifically makes it clear that it only logs the IP for technical or security reason for the site itself and it doesn't invades people's privacy or security it will most likely not be added.
