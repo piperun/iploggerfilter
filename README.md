@@ -16,5 +16,6 @@ This repo for ublock Origin/adblock to filter any site/subsite who's only purpos
   - Now there should appear a yellow button called "Parse", click it
   - Lastly you need to go to the top and hit the yellow "Update now" button
 
-Note: This list is only for any domain name which purpose is only to log your IP, if a website has other functionality
-other than to just log your IP, it will not be on this list (with the exception being url shorteners).
+
+
+Note: This list is only for any domain name which purpose is only to log your IP, such as an site's only clear motive or having it as an hidden unneccesary functionality (like an url-shortener) which can then be distributed to either a customer(s) or user(s) of that site, however if it's for technical or security reason for the site itself, unless it invades people's privacy or security it will not be added.
