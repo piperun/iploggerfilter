@@ -1,9 +1,9 @@
-### iploggerfilter
+# iploggerfilter
 This repo for ublock Origin/adblock to filter any site/subsite who's only purpose is to log your IP
 
 ## Installation
 
-# ublock Origins
+### ublock Origins
   - Go to ublock Origins settings
   - Navigate to 3rd-party filters page
   - On the bottom of the page, there should be an textbox where there are a bunch of example urls
