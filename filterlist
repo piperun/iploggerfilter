@@ -1,5 +1,6 @@
 ! Title: piperun's iplogger filter
 
+! iploggers
 iplogger.org
 2no.co
 ezstat.ru
@@ -25,12 +26,12 @@ youramonkey.com
 blasze.tk
 
 ! Temporarly
-!url shorteners
+! Url shorteners
 !bit.ly
 !budurl.co
 !taveo.net
 
-!fake site
+! fake site
 !catbox.moe/^$script,domain=~files.catbox.moe
 catbox.moe
 
