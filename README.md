@@ -1,5 +1,5 @@
 # iploggerfilter
-This repo for ublock Origin/adblock to filter any site/subsite who's only purpose is to log your IP
+This repo is for ublock Origin/Adblock Plus and similar blockers to filter any site/subsite who's only purpose is to log your IP
 
 ## Installation
 
