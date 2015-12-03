@@ -16,6 +16,14 @@ This repo for ublock Origin/adblock to filter any site/subsite who's only purpos
   - Now there should appear a yellow button called "Parse", click it
   - Lastly you need to go to the top and hit the yellow "Update now" button
 
+## Manually updating
+It seems ublock can be slow with updating the filter list itself, so if you want to stay up to the latest version as fast as possible you need to manually update it:
+  - Go to ublock Origins settings
+  - Navigate to 3rd-party filters page
+  - There should be an custom filter named: piperun's iplogger filter
+  - Click on the "purge cache" on the right of the name
+  - Now there should appear an yellow button at the upper left named: "Apply Changes", click it
+  - It should now show the correct amount of filter items
 
 
 Note: This list is only for any domain name which purpose is only to log your IP and or your browser, such as an site's only clear motive or having it as an hidden unneccesary functionality (like an url-shortener) which can then be distributed to either a customer(s) or user(s) of that site, however if the site specifically makes it clear that it only logs the IP for technical or security reason for the site itself and it doesn't invades people's privacy or security it will most likely not be added.
