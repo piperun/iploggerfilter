@@ -100,6 +100,7 @@ go.budurl.co
 *.dr.tl/*
 bit.do/*
 taveo.net/*
+bit.ly/*
 cur.lv
 slsh.us
 adf.ly
@@ -110,7 +111,7 @@ tldr.ly
 
 ! Temporarly
 
-!bit.ly
+
 
 
 ! Image hosting
