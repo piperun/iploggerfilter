@@ -22,25 +22,25 @@
 ||printscr.ga^$important
 ||youutube.gq^$important
 ||strawpoll.ga^$important
-bvog.com
+||bvog.com
 ||hondachat.com
 ||youramonkey.com
-blasze.tk
-myiptest.com/img.php
-||ip-grabber.com
-||imgurl.us
-||skypegrab.net
-||sciencefuture.tk
-||stresser.science
-||imageshack.ml
-||viphackforums.xyz
-gtadb.net
-fotocerdas.com
+||blasze.tk
+||myiptest.com/img.php
+||ip-grabber.com^important
+||imgurl.us^important
+||skypegrab.net^important
+||sciencefuture.tk^important
+||stresser.science^important
+||imageshack.ml^important
+||viphackforums.xyz^important
+||gtadb.net
+||fotocerdas.com
 ||parlament.usa.cc
 ||hs.vc
-||community.hackersclub.net
-||login.anal-porn.info
-||paypal.sellbitcoins.com
+||community.hackersclub.net^important
+||login.anal-porn.info^important
+||paypal.sellbitcoins.com^important
 ||panel.teamspeak.bz	
 ||files.uploads.ws
 ||cubeupload.com
@@ -75,8 +75,9 @@ fotocerdas.com
 ||skypecracker.xyz
 ||ipsnatcher.com
 ||skidpaste.org
-cloudfsx.com
+||cloudfsx.com
 ||ps3cfw.com
+
 
 # Booters
 ||orcahub.com^$important
@@ -89,6 +90,9 @@ cloudfsx.com
 ||vdos-s.com^$important
 ||oxystress.eu^$important
 ||freebooter.pro^$important
+||bootyou.net^$important
+||critical-boot.com^$important
+#||ipstresser.com^$imporant
 
 
 # Third party
@@ -99,19 +103,21 @@ cloudfsx.com
 
 #aruljohn.com * block
 
+
 # Url shorteners
-go.budurl.co
+||go.budurl.co
 ||dr.tl/*
-bit.do/*
-taveo.net/*
-bit.ly/*
-cur.lv
-slsh.us
-adf.ly
-shorte.st
+||bit.do/*
+||taveo.net/*
+||bit.ly/*
+||cur.lv
+||slsh.us
+||adf.ly
+||shorte.st
 ||biturl.io
 ||hackforu.ms
 ||tldr.ly
+
 
 # Temporarly
 
