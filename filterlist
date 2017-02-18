@@ -1,26 +1,27 @@
 ! Title: Piperun's iplogger filter
 
 # iploggers
-||iplogger.org
-||2no.co
-||ezstat.ru
-||iplogger.info
-||02ip.ru
-||iplo.ru
-||iplis.ru
-||iplogger.com
-||iplogger.ru
-||iplogger.org
-||pgrabber.ru
-||grabify.link
-||ip.jlynx.net
-||deviantartt.ml
-||dropboxx.lm 
-||gyazoo.ga
-||linkit.cf
-||printscr.ga
-||youutube.gq
-||strawpoll.ga
+# Will experiment with $important
+||iplogger.org^$important
+||2no.co^$important
+||ezstat.ru^$important
+||iplogger.info^$important
+||02ip.ru^$important
+||iplo.ru^$important
+||iplis.ru^$important
+||iplogger.com^$important
+||iplogger.ru^$important
+||iplogger.org^$important
+||pgrabber.ru^$important
+||grabify.link^$important
+||ip.jlynx.net^$important
+||deviantartt.ml^$important
+||dropboxx.lm ^$important
+||gyazoo.ga^$important
+||linkit.cf^$important
+||printscr.ga^$important
+||youutube.gq^$important
+||strawpoll.ga^$important
 bvog.com
 ||hondachat.com
 ||youramonkey.com
