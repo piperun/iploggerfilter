@@ -91,10 +91,11 @@ oxystress.eu
 
 
 # Third party
-||aruljohn.com/widget/ip/ip.php
-||aruljohn.com/widget/zip/zip.js
+#||aruljohn.com/widget/ip/ip.php
+#||aruljohn.com/widget/zip/zip.js
 
-
+||aruljohn.com/widget/ip/ * block
+||aruljohn.com/widget/zip/ * block
 # Url shorteners
 go.budurl.co
 ||dr.tl/*
@@ -115,4 +116,4 @@ shorte.st
 
 
 # Image hosting
-fuglekos.com/profile/*
+||fuglekos.com/profile/*
