@@ -1,6 +1,6 @@
 ! Title: Piperun's iplogger filter
 
-! iploggers
+# iploggers
 ||iplogger.org
 ||2no.co
 ||ezstat.ru
@@ -14,11 +14,11 @@
 ||pgrabber.ru
 ||grabify.link
 ||ip.jlynx.net
-deviantartt.ml^$important
-dropboxx.lm 
-gyazoo.ga
-linkit.cf
-printscr.ga
+||deviantartt.ml
+||dropboxx.lm 
+||gyazoo.ga
+||linkit.cf
+||printscr.ga
 ||youutube.gq
 ||strawpoll.ga
 bvog.com
@@ -26,13 +26,13 @@ bvog.com
 ||youramonkey.com
 blasze.tk
 myiptest.com/img.php
-ip-grabber.com
-imgurl.us
-skypegrab.net
-sciencefuture.tk
+||ip-grabber.com
+||imgurl.us
+||skypegrab.net
+||sciencefuture.tk
 ||stresser.science
-imageshack.ml
-viphackforums.xyz
+||imageshack.ml
+||viphackforums.xyz
 gtadb.net
 fotocerdas.com
 ||parlament.usa.cc
@@ -77,7 +77,7 @@ ipsnatcher.com
 cloudfsx.com
 ||ps3cfw.com
 
-!booters
+# Booters
 orcahub.com
 vbooter.org
 orboot.pw
@@ -89,12 +89,12 @@ vdos-s.com
 oxystress.eu
 
 
-! Third party
+# Third party
 ||aruljohn.com/widget/ip/ip.php
 ||aruljohn.com/widget/zip/zip.js
 
 
-! Url shorteners
+# Url shorteners
 go.budurl.co
 ||dr.tl/*
 bit.do/*
@@ -104,18 +104,14 @@ cur.lv
 slsh.us
 adf.ly
 shorte.st
-biturl.io
-hackforu.ms
-tldr.ly
+||biturl.io
+||hackforu.ms
+||tldr.ly
 
-! Temporarly
-
-
+# Temporarly
 
 
-! Image hosting
+
+
+# Image hosting
 fuglekos.com/profile/*
-
-
-
-
