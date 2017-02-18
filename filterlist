@@ -93,9 +93,11 @@ oxystress.eu
 # Third party
 #||aruljohn.com/widget/ip/ip.php
 #||aruljohn.com/widget/zip/zip.js
+||aruljohn.com/widget/zip/*
+||aruljohn.com/widget/ip/*
 
-aruljohn.com * block
-#||aruljohn.com/widget/zip/ * block
+#aruljohn.com * block
+
 # Url shorteners
 go.budurl.co
 ||dr.tl/*
