@@ -1,19 +1,19 @@
 ! Title: Piperun's iplogger filter
 
 ! iploggers
-iplogger.org
+||iplogger.org
 2no.co
 ezstat.ru
 iplogger.info
 02ip.ru
 iplo.ru
 iplis.ru
-iplogger.com
-iplogger.ru
-iplogger.org
-pgrabber.ru
-grabify.link
-ip.jlynx.net
+||iplogger.com
+||iplogger.ru
+||iplogger.org
+||pgrabber.ru
+||grabify.link
+||ip.jlynx.net
 deviantartt.ml
 dropboxx.lm 
 gyazoo.ga
@@ -35,47 +35,47 @@ imageshack.ml
 viphackforums.xyz
 gtadb.net
 fotocerdas.com
-parlament.usa.cc
-gov.hs.vc
-community.hackersclub.net
-login.anal-porn.info
-paypal.sellbitcoins.com
-panel.teamspeak.bz	
-files.uploads.ws
-*.cubeupload.com
-media.appspot.com
-*.hackfȯrums.net
-*.hackfȯrums.com
-*.imgúr.com
-*.battlė.net
-*.dank.host
-*.r1p.pw
-*.webprofile.me
-*.anonymousforum.pw
-*.ts3free.top
-*.viphackforum.xyz
-*.bbcnews.today
-*.privatexmpp.me
-*.topstreaming.us
-*.topcdn.biz
-*.postimage.co
-*.hackernews.online
-*.hdblog.tech
-*.sexy18.webcam
-*.dropbox.desi
-*.hostingonline.desi
-*.freeanonymous.host
-*.ampnode.host
-*.spoofing.host
-*.cubeupload.xyz
-*.exploit-db.xyz
-*.gyazoo.xyz
-*.ipddoser.xyz
-*.skypecracker.xyz
+||parlament.usa.cc
+||hs.vc
+||community.hackersclub.net
+||login.anal-porn.info
+||paypal.sellbitcoins.com
+||panel.teamspeak.bz	
+||files.uploads.ws
+||cubeupload.com
+||media.appspot.com
+||hackfȯrums.net
+||hackfȯrums.com
+||imgúr.com
+||battlė.net
+||dank.host
+||r1p.pw
+||webprofile.me
+||anonymousforum.pw
+||ts3free.top
+||viphackforum.xyz
+||bbcnews.today
+||privatexmpp.me
+||topstreaming.us
+||topcdn.biz
+||postimage.co
+||hackernews.online
+||hdblog.tech
+||sexy18.webcam
+||dropbox.desi
+||hostingonline.desi
+||freeanonymous.host
+||ampnode.host
+||spoofing.host
+||cubeupload.xyz
+||exploit-db.xyz
+||gyazoo.xyz
+||ipddoser.xyz
+||skypecracker.xyz
 ipsnatcher.com
-*.skidpaste.org
+||skidpaste.org
 cloudfsx.com
-*.ps3cfw.com
+||ps3cfw.com
 
 !booters
 orcahub.com
@@ -90,13 +90,13 @@ oxystress.eu
 
 
 ! Third party
-aruljohn.com/widget/ip/ip.php
-aruljohn.com/widget/zip/zip.js
+||aruljohn.com/widget/ip/ip.php
+||aruljohn.com/widget/zip/zip.js
 
 
 ! Url shorteners
 go.budurl.co
-*.dr.tl/*
+||dr.tl/*
 bit.do/*
 taveo.net/*
 bit.ly/*
@@ -115,9 +115,6 @@ tldr.ly
 
 ! Image hosting
 fuglekos.com/profile/*
-
-
-
 
 
 
