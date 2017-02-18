@@ -94,8 +94,8 @@ oxystress.eu
 #||aruljohn.com/widget/ip/ip.php
 #||aruljohn.com/widget/zip/zip.js
 
-||aruljohn.com/widget/ip/ * block
-||aruljohn.com/widget/zip/ * block
+aruljohn.com * block
+#||aruljohn.com/widget/zip/ * block
 # Url shorteners
 go.budurl.co
 ||dr.tl/*
