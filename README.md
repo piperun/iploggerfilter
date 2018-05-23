@@ -1,14 +1,14 @@
 # iploggerfilter
-This repo is for ublock Origin/Adblock Plus and similar blockers to filter any site/subsite who's only purpose is to log your IP
+This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any site/subsite who's only purpose is to log your IP
 
 ## Installation
 
-### Automatic (Adblock Plus & ublock Origins)
+### Automatic (Adblock Plus, uBlock Origins)
   Click this [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%20iplogger%20filter)
   
-### Manual (ublock Origins)
+### Manual (uBlock Origins)
 
-  - Go to ublock Origins settings
+  - Go to uBlock Origins settings
   - Navigate to 3rd-party filters page
   - On the bottom of the page, there should be an textbox where there are a bunch of example urls
   - Copy and paste into the textbox:
@@ -20,9 +20,9 @@ This repo is for ublock Origin/Adblock Plus and similar blockers to filter any s
   - Now there should appear a yellow button called "Parse", click it
   - Lastly you need to go to the top and hit the yellow "Update now" button
 
-## Manually updating (ublock Origins)
+## Manually updating (uBlock Origins)
 It seems ublock can be slow with updating the filter list itself, so if you want to stay up to the latest version as fast as possible you need to manually update it:
-  - Go to ublock Origins settings
+  - Go to uBlock Origins settings
   - Navigate to 3rd-party filters page
   - There should be an custom filter named: piperun's iplogger filter
   - Click on the "purge cache" on the right of the name
