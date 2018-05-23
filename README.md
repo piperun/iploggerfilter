@@ -20,7 +20,7 @@ This repo is for ublock Origin/Adblock Plus and similar blockers to filter any s
   - Now there should appear a yellow button called "Parse", click it
   - Lastly you need to go to the top and hit the yellow "Update now" button
 
-## Manually updating
+## Manually updating (ublock Origins)
 It seems ublock can be slow with updating the filter list itself, so if you want to stay up to the latest version as fast as possible you need to manually update it:
   - Go to ublock Origins settings
   - Navigate to 3rd-party filters page
