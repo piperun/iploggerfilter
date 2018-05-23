@@ -3,10 +3,10 @@ This repo is for ublock Origin/Adblock Plus and similar blockers to filter any s
 
 ## Installation
 
-### Adblock Plus
-  Click on [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%20iplogger%20filter) 
+### Automatic (Adblock Plus & ublock Origins)
+  Click this [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%20iplogger%20filter)
   
-#### ublock Origins
+### Manual (ublock Origins)
 
   - Go to ublock Origins settings
   - Navigate to 3rd-party filters page
