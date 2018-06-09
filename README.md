@@ -4,7 +4,7 @@ This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any s
 ## Installation
 
 ### Automatic (Adblock Plus, uBlock Origins)
-  Click this [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%20iplogger%20filter)
+  Click this [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%27s%20iplogger%20filter)
   
 ### Manual (uBlock Origins)
 
