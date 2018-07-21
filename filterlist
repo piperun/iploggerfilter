@@ -1,4 +1,9 @@
 ! Title: Piperun's iplogger filter
+! Expires: 3 days
+! Last modified: 21 July 2018
+! Homepage: https://github.com/piperun/iploggerfilter
+! Contribute: https://github.com/piperun/iploggerfilter/issues
+! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
 
 # iploggers
 # Will experiment with $important
@@ -202,8 +207,6 @@
 
 
 # Temporarly
-
-
 
 
 # Image hosting
