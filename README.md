@@ -3,12 +3,12 @@ This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any s
 
 ## Installation
 
-### Automatic (Adblock Plus, uBlock Origins)
+### Automatic (Adblock Plus, uBlock Origin)
   Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%27s%20iplogger%20filter)
   
-### Manual (uBlock Origins)
+### Manual (uBlock Origin)
 
-  - Go to uBlock Origins settings
+  - Go to uBlock Origin settings
   - Navigate to 3rd-party filters page
   - On the bottom of the page, there should be an textbox where there are a bunch of example urls
   - Copy and paste into the textbox:
@@ -20,9 +20,9 @@ This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any s
   - Now there should appear a yellow button called "Parse", click it
   - Lastly you need to go to the top and hit the yellow "Update now" button
 
-## Manually updating (uBlock Origins)
+## Manually updating (uBlock Origin)
 It seems ublock can be slow with updating the filter list itself, so if you want to stay up to the latest version as fast as possible you need to manually update it:
-  - Go to uBlock Origins settings
+  - Go to uBlock Origin settings
   - Navigate to 3rd-party filters page
   - There should be an custom filter named: piperun's iplogger filter
   - Click on the "purge cache" on the right of the name
