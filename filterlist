@@ -1,6 +1,6 @@
 ! Title: Piperun's iplogger filter
 ! Expires: 3 days
-! Last modified: 31 July 2018
+! Last modified: 24 October 2018
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! Contribute: https://github.com/piperun/iploggerfilter/issues
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
@@ -25,6 +25,7 @@
 ||bmwforum.co^$important
 ||leancoding.co^$important
 ||quickmessage.io^$important
+||quickmessage.us^important
 ||spottyfly.com^$important
 ||spötify.com^$important
 ||stopify.co^$important
@@ -39,6 +40,8 @@
 ||cyberh1.xyz^$important
 ||freegiftcards.co^$important
 ||rëddït.com^$important
+||särahah.eu^$important
+||särahah.pl^important
 ||iany.pl^$important
 ||my-alts.eu^$important
 ||l-imgur.pl^$important
@@ -141,7 +144,7 @@
 ||twitch-stats.stream^$important
 ||twiţter.com^$important
 ||videoblog.tech^$important
-||xda-developers.io^$important
+||xda-developers.us^$important
 ||yip.su^$important
 ||yoütu.be^$important
 ||yoütübe.co^$important
@@ -150,6 +153,11 @@
 ||ìṃgur.com^$important
 ||ġooģle.com^$important
 ||rikiki.net^$important
+||fortnight.space^$important
+||fortnitechat.site^$important
+||youshouldclick.us^$important
+||joinmy.site^$important
+||watches-my.stream^$important
 
 # Booters
 ||orcahub.com^$important
