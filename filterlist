@@ -33,6 +33,10 @@
 ||youshouldclick.us^$important
 ||joinmy.site^$important
 ||watches-my.stream^$important
+#grabify.link - not publicly visible
+||rëddït.com^$important
+||yoütu.be^$important
+||xda-developers.us^$important
 
 #iplogger.org
 ||iplogger.org^$important
@@ -41,9 +45,7 @@
 ||2no.co^$important
 ||yip.su^$important
 ||mapper.info^$important
-
-#unsorted sites
-||spötify.com^$important
+#iplogger.org - not publicly visible
 ||ezstat.ru^$important
 ||02ip.ru^$important
 ||iplo.ru^$important
@@ -51,18 +53,20 @@
 ||iplogger.info^$important
 ||ipgrabber.ru^$important
 ||ipgraber.ru^$important
-||quickmessage.io^$important
 
+#dead/not responding
+#not sure why but well it's there so yeah
+||spötify.com^$important
+||quickmessage.io^$important
 ||yoütübe.co^$important
 ||yoütübe.com^$important
-
 ||cyberh1.xyz^$important
-||rëddït.com^$important
 ||iany.pl^$important
 ||my-alts.eu^$important
 ||l-imgur.pl^$important
 ||exec-true.eu^$important
 ||tigercore.eu^$important
+#ip.jlynx.net - jlynx.net is owned grabify.link, consider keeping as it can go online any time
 ||ip.jlynx.net^$important
 ||deviantartt.ml^$important
 ||dropboxx.lm ^$important
@@ -82,22 +86,16 @@
 ||bvog.com^$important
 ||hondachat.com^$important
 ||youramonkey.com^$important
-||blasze.tk^$important
-||myiptest.com/img.php^$important
 ||ip-grabber.com^$important
 ||imgurl.us^$important
-||skypegrab.net^$important
 ||sciencefuture.tk^$important
 ||stresser.science^$important
-||imageshack.ml^$important
 ||viphackforums.xyz^$important
 ||gtadb.net^$important
 ||fotocerdas.com^$important
 ||parlament.usa.cc^$important
-||hs.vc^$important
 ||community.hackersclub.net^$important
 ||login.anal-porn.info^$important
-||paypal.sellbitcoins.com^$important
 ||panel.teamspeak.bz^$important
 ||files.uploads.ws^$important
 ||media.appspot.com^$important
@@ -107,7 +105,6 @@
 ||battlė.net^$important
 ||dank.host^$important
 ||r1p.pw^$important
-||webprofile.me^$important
 ||anonymousforum.pw^$important
 ||ts3free.top^$important
 ||viphackforum.xyz^$important
@@ -115,7 +112,6 @@
 ||privatexmpp.me^$important
 ||topstreaming.us^$important
 ||topcdn.biz^$important
-||postimage.co^$important
 ||hackernews.online^$important
 ||hdblog.tech^$important
 ||sexy18.webcam^$important
@@ -126,21 +122,29 @@
 ||spoofing.host^$important
 ||cubeupload.xyz^$important
 ||exploit-db.xyz^$important
+||disċordapp.com^$important
+||bucks.as^$important
+||twiţter.com^$important
+||sĸype.com^$important
+||transferfiles.cloud^$important
+||tvshare.co^$important
+||twitch-stats.stream^$important
+||videoblog.tech^$important
+||yoütübe.co^$important
+||yoütübe.com^$important
+||yòutube.com^$important
+||ìṃgur.com^$important
+||ġooģle.com^$important
+||rikiki.net^$important
 ||gyazoo.xyz^$important
 ||ipddoser.xyz^$important
 ||skypecracker.xyz^$important
 ||ipsnatcher.com^$important
 ||skidpaste.org^$important
 ||cloudfsx.com^$important
-||ps3cfw.com^$important
-||yȯutube.com^$important
-||gyazo.nl^$important
-||2no.co^$important
 ||anonfiles.download^$important
 ||bbcbloggers.co.uk^$important
-||bucks.as^$important
 ||csgopot.zone^$important
-||disċordapp.com^$important
 ||downthe.design^$important
 ||gameskeys.shop^$important
 ||hbotv.co^$important
@@ -148,26 +152,35 @@
 ||imger.me^$important
 ||mailble.com^$important
 ||proxyfill.co^$important
-||publicwiki.m^$important
 ||shört.co^$important
 ||spötify.com^$important
 ||starbucks.bio^$important
 ||steamtools.co^$important
-||sĸype.com^$important
-||transferfiles.cloud^$important
-||tvshare.co^$important
-||twitch-stats.stream^$important
-||twiţter.com^$important
-||videoblog.tech^$important
-||xda-developers.us^$important
-||yip.su^$important
-||yoütu.be^$important
-||yoütübe.co^$important
-||yoütübe.com^$important
-||yòutube.com^$important
-||ìṃgur.com^$important
-||ġooģle.com^$important
-||rikiki.net^$important
+
+#cyber-hub.net intell needed
+||skypegrab.net^$important
+
+#unsorted sites
+#standalones:
+||blasze.tk^$important 
+||myiptest.com/img.php^$important
+||ps3cfw.com^$important
+#check back latter - cf error
+||imageshack.ml^$important
+#check back latter - alive - unreadable
+||hs.vc^$important 
+#dead but parent alive
+||paypal.sellbitcoins.com^$important 
+#junk/random
+||webprofile.me^$important 
+||postimage.co^$important
+#wow over bought by gyazo themself?? redirects to gyazo.com
+||gyazo.nl^$important
+#Seems to redirects to youtube.com wow
+||yȯutube.com^$important
+#.me?? m seems not to be a TLD
+||publicwiki.m^$important 
+
 
 # Booters
 ||orcahub.com^$important
