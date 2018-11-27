@@ -9,39 +9,55 @@
 
 # iploggers
 # Will experiment with $important
-||iplogger.org^$important
-||2no.co^$important
-||ezstat.ru^$important
-||iplogger.info^$important
-||02ip.ru^$important
-||iplo.ru^$important
-||iplis.ru^$important
-||iplogger.com^$important
-||iplogger.ru^$important
-||ipgrabber.ru^$important
-||ipgraber.ru^$important
-||yip.su^$important
+
+#grabify.link
 ||grabify.link^$important
 ||bmwforum.co^$important
 ||leancoding.co^$important
-||quickmessage.io^$important
-||quickmessage.us^important
 ||spottyfly.com^$important
-||spötify.com^$important
 ||stopify.co^$important
 ||yoütu.be^$important
-||yoütübe.co^$important
-||yoütübe.com^$important
-||xda-developers.io^$important
 ||starbucksiswrong.com^$important
 ||starbucksisbadforyou.com^$important
 ||bucks.as^$important
+||discörd.com^$important
 ||minecräft.com^$important
-||cyberh1.xyz^$important
 ||freegiftcards.co^$important
-||rëddït.com^$important
+||disçordapp.com^$important
 ||särahah.eu^$important
 ||särahah.pl^$important
+||xda-developers.io^$important
+||quickmessage.us^important
+||fortnight.space^$important
+||fortnitechat.site^$important
+||youshouldclick.us^$important
+||joinmy.site^$important
+||watches-my.stream^$important
+
+#iplogger.org
+||iplogger.org^$important
+||iplogger.com^$important
+||iplogger.ru^$important
+||2no.co^$important
+||yip.su^$important
+||mapper.info^$important
+
+#unsorted sites
+||spötify.com^$important
+||ezstat.ru^$important
+||02ip.ru^$important
+||iplo.ru^$important
+||iplis.ru^$important
+||iplogger.info^$important
+||ipgrabber.ru^$important
+||ipgraber.ru^$important
+||quickmessage.io^$important
+
+||yoütübe.co^$important
+||yoütübe.com^$important
+
+||cyberh1.xyz^$important
+||rëddït.com^$important
 ||iany.pl^$important
 ||my-alts.eu^$important
 ||l-imgur.pl^$important
@@ -124,9 +140,7 @@
 ||bbcbloggers.co.uk^$important
 ||bucks.as^$important
 ||csgopot.zone^$important
-||discörd.com^$important
 ||disċordapp.com^$important
-||disçordapp.com^$important
 ||downthe.design^$important
 ||gameskeys.shop^$important
 ||hbotv.co^$important
@@ -154,11 +168,6 @@
 ||ìṃgur.com^$important
 ||ġooģle.com^$important
 ||rikiki.net^$important
-||fortnight.space^$important
-||fortnitechat.site^$important
-||youshouldclick.us^$important
-||joinmy.site^$important
-||watches-my.stream^$important
 
 # Booters
 ||orcahub.com^$important
