@@ -5,10 +5,10 @@
 ! Contribute: https://github.com/piperun/iploggerfilter/issues
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
 
-! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
-# iploggers
-# Will experiment with $important
+
+# iploggers #
 ||iplogger.org^$important
 ||2no.co^$important
 ||ezstat.ru^$important
@@ -159,13 +159,15 @@
 ||youshouldclick.us^$important
 ||joinmy.site^$important
 ||watches-my.stream^$important
+
+# Misc
 ||fuglekos.com^$important
 
-# Booters
+# Booters #
 ||orcahub.com^$important
 ||vbooter.org^$important
 ||orboot.pw^$important
-!synstress.net
+#synstress.net
 ||ddos.city^$important
 ||restresser.com^$important
 ||networkstresser.com^$important
@@ -177,8 +179,15 @@
 ||boot4free.com^$important
 #||ipstresser.com^$imporant
 
+# "Hack" tools #
 
-# Third party
+# Cyber-hub
+||fortnite-stats.site^$important
+||minecraft-skins.xyz^$important
+||booter.icu^$important
+||discordcrypt.xyz^$important
+
+# Third party #
 #||aruljohn.com/widget/ip/ip.php
 #||aruljohn.com/widget/zip/zip.js
 ||aruljohn.com/widget/zip/*
@@ -187,7 +196,7 @@
 #aruljohn.com * block
 
 
-# Url shorteners
+# Url shorteners #
 ||go.budurl.co^$important
 ||dr.tl/*^$important
 ||bit.do/*^$important
@@ -202,9 +211,9 @@
 ||tldr.ly^$important
 ||wzurl.me^$important
 
+##############
+# Temporarly #
+##############
 
-# Temporarly
-
-
-# Image hosting
+# Image hosting #
 #||fuglekos.com/profile/*
