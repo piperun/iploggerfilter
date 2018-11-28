@@ -164,6 +164,11 @@
 ||booter.icu^$important
 ||discordcrypt.xyz^$important
 
+#webresolver.nl
+#Notes: their sites redirects to authentic sites to make themself seems legit
+||gyazo.nl^$important
+||yȯutube.com^$important
+
 #unsorted sites
 #standalones:
 ||blasze.tk^$important
@@ -180,10 +185,6 @@
 #junk/random
 ||webprofile.me^$important 
 ||postimage.co^$important
-#wow over bought by gyazo themself?? redirects to gyazo.com
-||gyazo.nl^$important
-#Seems to redirects to youtube.com wow
-||yȯutube.com^$important
 #.me?? m seems not to be a TLD
 ||publicwiki.m^$important 
 
