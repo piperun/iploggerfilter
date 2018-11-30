@@ -5,12 +5,29 @@
 ! Contribute: https://github.com/piperun/iploggerfilter/issues
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
 
-! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
+<<<<<<< HEAD
 # iploggers
 # Will experiment with $important
 
 #grabify.link
+=======
+
+# iploggers #
+||iplogger.org^$important
+||2no.co^$important
+||ezstat.ru^$important
+||iplogger.info^$important
+||02ip.ru^$important
+||iplo.ru^$important
+||iplis.ru^$important
+||iplogger.com^$important
+||iplogger.ru^$important
+||ipgrabber.ru^$important
+||ipgraber.ru^$important
+||yip.su^$important
+>>>>>>> de5ce26b34fd268b0139a137f452c1adc5d29155
 ||grabify.link^$important
 ||bmwforum.co^$important
 ||leancoding.co^$important
@@ -189,11 +206,14 @@
 ||publicwiki.m^$important 
 
 
-# Booters
+# Misc
+||fuglekos.com^$important
+
+# Booters #
 ||orcahub.com^$important
 ||vbooter.org^$important
 ||orboot.pw^$important
-!synstress.net
+#synstress.net
 ||ddos.city^$important
 ||restresser.com^$important
 ||networkstresser.com^$important
@@ -205,8 +225,15 @@
 ||boot4free.com^$important
 #||ipstresser.com^$imporant
 
+# "Hack" tools #
 
-# Third party
+# Cyber-hub
+||fortnite-stats.site^$important
+||minecraft-skins.xyz^$important
+||booter.icu^$important
+||discordcrypt.xyz^$important
+
+# Third party #
 #||aruljohn.com/widget/ip/ip.php
 #||aruljohn.com/widget/zip/zip.js
 ||aruljohn.com/widget/zip/*
@@ -217,7 +244,7 @@
 # Misc
 ||fuglekos.com^$important
 
-# Url shorteners
+# Url shorteners #
 ||go.budurl.co^$important
 ||dr.tl/*^$important
 ||bit.do/*^$important
@@ -232,9 +259,9 @@
 ||tldr.ly^$important
 ||wzurl.me^$important
 
+##############
+# Temporarly #
+##############
 
-# Temporarly
-
-
-# Image hosting
-||fuglekos.com/profile/*
+# Image hosting #
+#||fuglekos.com/profile/*
