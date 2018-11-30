@@ -7,27 +7,10 @@
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
-<<<<<<< HEAD
 # iploggers
 # Will experiment with $important
 
 #grabify.link
-=======
-
-# iploggers #
-||iplogger.org^$important
-||2no.co^$important
-||ezstat.ru^$important
-||iplogger.info^$important
-||02ip.ru^$important
-||iplo.ru^$important
-||iplis.ru^$important
-||iplogger.com^$important
-||iplogger.ru^$important
-||ipgrabber.ru^$important
-||ipgraber.ru^$important
-||yip.su^$important
->>>>>>> de5ce26b34fd268b0139a137f452c1adc5d29155
 ||grabify.link^$important
 ||bmwforum.co^$important
 ||leancoding.co^$important
@@ -71,8 +54,40 @@
 ||ipgrabber.ru^$important
 ||ipgraber.ru^$important
 
+#cyber-hub.net 
+||skypegrab.net^$important
+||fortnite-stats.site^$important
+||minecraft-skins.xyz^$important
+||booter.icu^$important
+||discordcrypt.xyz^$important
+
+#webresolver.nl
+#Notes: their sites redirects to authentic sites to make themself seems legit
+||gyazo.nl^$important
+||yȯutube.com^$important
+
+#unsorted sites
+#standalones:
+||blasze.tk^$important
+||blasze.com^$imporant
+||myiptest.com/img.php^$important
+#ps3cfw.com/cool.php?item=tracking id
+||ps3cfw.com^$important
+#cf error
+||imageshack.ml^$important
+||hs.vc^$important 
+#dead but parent alive
+||paypal.sellbitcoins.com^$important 
+#junk/random
+||webprofile.me^$important 
+||postimage.co^$important
+#.me?? m seems not to be a TLD
+||publicwiki.m^$important 
+||publicwiki.me^$important 
+
+
 #dead/not responding
-#not sure why but well it's there so yeah
+#left here incase reactivation
 ||spötify.com^$important
 ||quickmessage.io^$important
 ||yoütübe.co^$important
@@ -174,38 +189,6 @@
 ||starbucks.bio^$important
 ||steamtools.co^$important
 
-#cyber-hub.net intell needed
-||skypegrab.net^$important
-||fortnite-stats.site^$important
-||minecraft-skins.xyz^$important
-||booter.icu^$important
-||discordcrypt.xyz^$important
-
-#webresolver.nl
-#Notes: their sites redirects to authentic sites to make themself seems legit
-||gyazo.nl^$important
-||yȯutube.com^$important
-
-#unsorted sites
-#standalones:
-||blasze.tk^$important
-||blasze.com^$imporant
-||myiptest.com/img.php^$important
-# ps3cfw.com/cool.php?item=tracking id
-||ps3cfw.com^$important
-#check back latter - cf error
-||imageshack.ml^$important
-#check back latter - alive - unreadable
-||hs.vc^$important 
-#dead but parent alive
-||paypal.sellbitcoins.com^$important 
-#junk/random
-||webprofile.me^$important 
-||postimage.co^$important
-#.me?? m seems not to be a TLD
-||publicwiki.m^$important 
-
-
 # Misc
 ||fuglekos.com^$important
 
@@ -224,14 +207,6 @@
 ||critical-boot.com^$important
 ||boot4free.com^$important
 #||ipstresser.com^$imporant
-
-# "Hack" tools #
-
-# Cyber-hub
-||fortnite-stats.site^$important
-||minecraft-skins.xyz^$important
-||booter.icu^$important
-||discordcrypt.xyz^$important
 
 # Third party #
 #||aruljohn.com/widget/ip/ip.php
