@@ -71,6 +71,8 @@
 ||blasze.tk^$important
 ||blasze.com^$imporant
 ||myiptest.com/img.php^$important
+#ikwyd.com - see https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
+||ikwyd.com^$imporant
 #ps3cfw.com/cool.php?item=tracking id
 ||ps3cfw.com^$important
 #cf error
