@@ -8,9 +8,8 @@
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
 # iploggers
-# Will experiment with $important
 
-#grabify.link
+# Main: grabify.link
 ||grabify.link^$important
 ||bmwforum.co^$important
 ||leancoding.co^$important
@@ -38,7 +37,7 @@
 ||yoütu.be^$important
 ||xda-developers.us^$important
 
-#iplogger.org
+# Main: iplogger.org
 ||iplogger.org^$important
 ||iplogger.com^$important
 ||iplogger.ru^$important
@@ -54,20 +53,23 @@
 ||ipgrabber.ru^$important
 ||ipgraber.ru^$important
 
-#cyber-hub.net 
+# Main: cyber-hub.net 
 ||skypegrab.net^$important
 ||fortnite-stats.site^$important
 ||minecraft-skins.xyz^$important
 ||booter.icu^$important
 ||discordcrypt.xyz^$important
 
-#webresolver.nl
-#Notes: their sites redirects to authentic sites to make themself seems legit
+# Main: webresolver.nl
+# - their sites redirects to authentic sites to make themself seems legit
 ||gyazo.nl^$important
 ||yȯutube.com^$important
 
-#unsorted sites
-#standalones:
+##################
+# Unsorted sites #
+##################
+
+# Standalones:
 ||blasze.tk^$important
 ||blasze.com^$imporant
 ||myiptest.com/img.php^$important
@@ -87,9 +89,10 @@
 ||publicwiki.m^$important 
 ||publicwiki.me^$important 
 
+############
+# Inactive #
+############
 
-#dead/not responding
-#left here incase reactivation
 ||spötify.com^$important
 ||quickmessage.io^$important
 ||yoütübe.co^$important
@@ -211,8 +214,6 @@
 #||ipstresser.com^$imporant
 
 # Third party #
-#||aruljohn.com/widget/ip/ip.php
-#||aruljohn.com/widget/zip/zip.js
 ||aruljohn.com/widget/zip/*
 ||aruljohn.com/widget/ip/*
 
