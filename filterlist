@@ -7,46 +7,100 @@
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
+# iploggers
+# Will experiment with $important
 
-# iploggers #
-||iplogger.org^$important
-||2no.co^$important
-||ezstat.ru^$important
-||iplogger.info^$important
-||02ip.ru^$important
-||iplo.ru^$important
-||iplis.ru^$important
-||iplogger.com^$important
-||iplogger.ru^$important
-||ipgrabber.ru^$important
-||ipgraber.ru^$important
-||yip.su^$important
+#grabify.link
 ||grabify.link^$important
 ||bmwforum.co^$important
 ||leancoding.co^$important
-||quickmessage.io^$important
-||quickmessage.us^important
 ||spottyfly.com^$important
-||spötify.com^$important
 ||stopify.co^$important
 ||yoütu.be^$important
-||yoütübe.co^$important
-||yoütübe.com^$important
-||xda-developers.io^$important
 ||starbucksiswrong.com^$important
 ||starbucksisbadforyou.com^$important
 ||bucks.as^$important
+||discörd.com^$important
 ||minecräft.com^$important
-||cyberh1.xyz^$important
 ||freegiftcards.co^$important
-||rëddït.com^$important
+||disçordapp.com^$important
 ||särahah.eu^$important
 ||särahah.pl^$important
+||xda-developers.io^$important
+||quickmessage.us^important
+||fortnight.space^$important
+||fortnitechat.site^$important
+||youshouldclick.us^$important
+||joinmy.site^$important
+||watches-my.stream^$important
+#grabify.link - not publicly visible
+||rëddït.com^$important
+||yoütu.be^$important
+||xda-developers.us^$important
+
+#iplogger.org
+||iplogger.org^$important
+||iplogger.com^$important
+||iplogger.ru^$important
+||2no.co^$important
+||yip.su^$important
+||mapper.info^$important
+#iplogger.org - not publicly visible
+||ezstat.ru^$important
+||02ip.ru^$important
+||iplo.ru^$important
+||iplis.ru^$important
+||iplogger.info^$important
+||ipgrabber.ru^$important
+||ipgraber.ru^$important
+
+#cyber-hub.net 
+||skypegrab.net^$important
+||fortnite-stats.site^$important
+||minecraft-skins.xyz^$important
+||booter.icu^$important
+||discordcrypt.xyz^$important
+
+#webresolver.nl
+#Notes: their sites redirects to authentic sites to make themself seems legit
+||gyazo.nl^$important
+||yȯutube.com^$important
+
+#unsorted sites
+#standalones:
+||blasze.tk^$important
+||blasze.com^$imporant
+||myiptest.com/img.php^$important
+#ikwyd.com - see https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
+||ikwyd.com^$imporant
+#ps3cfw.com/cool.php?item=tracking id
+||ps3cfw.com^$important
+#cf error
+||imageshack.ml^$important
+||hs.vc^$important 
+#dead but parent alive
+||paypal.sellbitcoins.com^$important 
+#junk/random
+||webprofile.me^$important 
+||postimage.co^$important
+#.me?? m seems not to be a TLD
+||publicwiki.m^$important 
+||publicwiki.me^$important 
+
+
+#dead/not responding
+#left here incase reactivation
+||spötify.com^$important
+||quickmessage.io^$important
+||yoütübe.co^$important
+||yoütübe.com^$important
+||cyberh1.xyz^$important
 ||iany.pl^$important
 ||my-alts.eu^$important
 ||l-imgur.pl^$important
 ||exec-true.eu^$important
 ||tigercore.eu^$important
+#ip.jlynx.net - jlynx.net is owned grabify.link, consider keeping as it can go online any time
 ||ip.jlynx.net^$important
 ||deviantartt.ml^$important
 ||dropboxx.lm ^$important
@@ -66,22 +120,16 @@
 ||bvog.com^$important
 ||hondachat.com^$important
 ||youramonkey.com^$important
-||blasze.tk^$important
-||myiptest.com/img.php^$important
 ||ip-grabber.com^$important
 ||imgurl.us^$important
-||skypegrab.net^$important
 ||sciencefuture.tk^$important
 ||stresser.science^$important
-||imageshack.ml^$important
 ||viphackforums.xyz^$important
 ||gtadb.net^$important
 ||fotocerdas.com^$important
 ||parlament.usa.cc^$important
-||hs.vc^$important
 ||community.hackersclub.net^$important
 ||login.anal-porn.info^$important
-||paypal.sellbitcoins.com^$important
 ||panel.teamspeak.bz^$important
 ||files.uploads.ws^$important
 ||media.appspot.com^$important
@@ -91,7 +139,6 @@
 ||battlė.net^$important
 ||dank.host^$important
 ||r1p.pw^$important
-||webprofile.me^$important
 ||anonymousforum.pw^$important
 ||ts3free.top^$important
 ||viphackforum.xyz^$important
@@ -99,7 +146,6 @@
 ||privatexmpp.me^$important
 ||topstreaming.us^$important
 ||topcdn.biz^$important
-||postimage.co^$important
 ||hackernews.online^$important
 ||hdblog.tech^$important
 ||sexy18.webcam^$important
@@ -110,23 +156,29 @@
 ||spoofing.host^$important
 ||cubeupload.xyz^$important
 ||exploit-db.xyz^$important
+||disċordapp.com^$important
+||bucks.as^$important
+||twiţter.com^$important
+||sĸype.com^$important
+||transferfiles.cloud^$important
+||tvshare.co^$important
+||twitch-stats.stream^$important
+||videoblog.tech^$important
+||yoütübe.co^$important
+||yoütübe.com^$important
+||yòutube.com^$important
+||ìṃgur.com^$important
+||ġooģle.com^$important
+||rikiki.net^$important
 ||gyazoo.xyz^$important
 ||ipddoser.xyz^$important
 ||skypecracker.xyz^$important
 ||ipsnatcher.com^$important
 ||skidpaste.org^$important
 ||cloudfsx.com^$important
-||ps3cfw.com^$important
-||yȯutube.com^$important
-||gyazo.nl^$important
-||2no.co^$important
 ||anonfiles.download^$important
 ||bbcbloggers.co.uk^$important
-||bucks.as^$important
 ||csgopot.zone^$important
-||discörd.com^$important
-||disċordapp.com^$important
-||disçordapp.com^$important
 ||downthe.design^$important
 ||gameskeys.shop^$important
 ||hbotv.co^$important
@@ -134,31 +186,10 @@
 ||imger.me^$important
 ||mailble.com^$important
 ||proxyfill.co^$important
-||publicwiki.m^$important
 ||shört.co^$important
 ||spötify.com^$important
 ||starbucks.bio^$important
 ||steamtools.co^$important
-||sĸype.com^$important
-||transferfiles.cloud^$important
-||tvshare.co^$important
-||twitch-stats.stream^$important
-||twiţter.com^$important
-||videoblog.tech^$important
-||xda-developers.us^$important
-||yip.su^$important
-||yoütu.be^$important
-||yoütübe.co^$important
-||yoütübe.com^$important
-||yòutube.com^$important
-||ìṃgur.com^$important
-||ġooģle.com^$important
-||rikiki.net^$important
-||fortnight.space^$important
-||fortnitechat.site^$important
-||youshouldclick.us^$important
-||joinmy.site^$important
-||watches-my.stream^$important
 
 # Misc
 ||fuglekos.com^$important
@@ -179,14 +210,6 @@
 ||boot4free.com^$important
 #||ipstresser.com^$imporant
 
-# "Hack" tools #
-
-# Cyber-hub
-||fortnite-stats.site^$important
-||minecraft-skins.xyz^$important
-||booter.icu^$important
-||discordcrypt.xyz^$important
-
 # Third party #
 #||aruljohn.com/widget/ip/ip.php
 #||aruljohn.com/widget/zip/zip.js
@@ -195,6 +218,8 @@
 
 #aruljohn.com * block
 
+# Misc
+||fuglekos.com^$important
 
 # Url shorteners #
 ||go.budurl.co^$important
