@@ -192,6 +192,7 @@
 ||spötify.com^$important
 ||starbucks.bio^$important
 ||steamtools.co^$important
+||linkit.cf^$important
 
 # Misc
 ||fuglekos.com^$important
@@ -243,5 +244,3 @@
 # Image hosting #
 #||fuglekos.com/profile/*
 
-# Dead links
-#||linkit.cf^$important
