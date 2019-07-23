@@ -23,19 +23,22 @@
 ||minecräft.com^$important
 ||freegiftcards.co^$important
 ||disçordapp.com^$important
-||särahah.eu^$important
-||särahah.pl^$important
-||xda-developers.io^$important
+||xda-developers.us^$important
 ||quickmessage.us^important
 ||fortnight.space^$important
 ||fortnitechat.site^$important
 ||youshouldclick.us^$important
 ||joinmy.site^$important
-||watches-my.stream^$important
+||crabrave.pw^$important
+
 #grabify.link - not publicly visible
 ||rëddït.com^$important
 ||yoütu.be^$important
 ||xda-developers.us^$important
+||särahah.eu^$important
+||särahah.pl^$important
+||xda-developers.io^$important
+||watches-my.stream^$important
 
 # Main: iplogger.org
 ||iplogger.org^$important
@@ -77,14 +80,15 @@
 ||ikwyd.com^$imporant
 #ps3cfw.com/cool.php?item=tracking id
 ||ps3cfw.com^$important
-#cf error
-||imageshack.ml^$important
-||hs.vc^$important 
 #dead but parent alive
-||paypal.sellbitcoins.com^$important 
+||paypal.sellbitcoins.com^$important
 #junk/random
-||webprofile.me^$important 
 ||postimage.co^$important
+
+#dead?
+||imageshack.ml^$important
+||hs.vc^$important
+||webprofile.me^$important
 #.me?? m seems not to be a TLD
 ||publicwiki.m^$important 
 ||publicwiki.me^$important 
