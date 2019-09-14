@@ -74,10 +74,10 @@
 
 # Standalones:
 ||blasze.tk^$important
-||blasze.com^$imporant
+||blasze.com^$important
 ||myiptest.com/img.php^$important
 #ikwyd.com - see https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
-||ikwyd.com^$imporant
+||ikwyd.com^$important
 #ps3cfw.com/cool.php?item=tracking id
 ||ps3cfw.com^$important
 #dead but parent alive
@@ -215,7 +215,7 @@
 ||bootyou.net^$important
 ||critical-boot.com^$important
 ||boot4free.com^$important
-#||ipstresser.com^$imporant
+#||ipstresser.com^$important
 
 # Third party #
 ||aruljohn.com/widget/zip/*
