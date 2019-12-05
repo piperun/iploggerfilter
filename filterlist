@@ -10,212 +10,212 @@
 # iploggers
 
 # Main: grabify.link
-||grabify.link^$important
-||bmwforum.co^$important
-||leancoding.co^$important
-||spottyfly.com^$important
-||stopify.co^$important
-||yoütu.be^$important
-||starbucksiswrong.com^$important
-||starbucksisbadforyou.com^$important
-||bucks.as^$important
-||discörd.com^$important
-||minecräft.com^$important
-||freegiftcards.co^$important
-||disçordapp.com^$important
-||xda-developers.us^$important
-||quickmessage.us^$important
-||fortnight.space^$important
-||fortnitechat.site^$important
-||youshouldclick.us^$important
-||joinmy.site^$important
-||crabrave.pw^$important
+||grabify.link^$important,all
+||bmwforum.co^$important,all
+||leancoding.co^$important,all
+||spottyfly.com^$important,all
+||stopify.co^$important,all
+||yoütu.be^$important,all
+||starbucksiswrong.com^$important,all
+||starbucksisbadforyou.com^$important,all
+||bucks.as^$important,all
+||discörd.com^$important,all
+||minecräft.com^$important,all
+||freegiftcards.co^$important,all
+||disçordapp.com^$important,all
+||xda-developers.us^$important,all
+||quickmessage.us^$important,all
+||fortnight.space^$important,all
+||fortnitechat.site^$important,all
+||youshouldclick.us^$important,all
+||joinmy.site^$important,all
+||crabrave.pw^$important,all
 
 #grabify.link - not publicly visible
-||rëddït.com^$important
-||yoütu.be^$important
-||xda-developers.us^$important
-||särahah.eu^$important
-||särahah.pl^$important
-||xda-developers.io^$important
-||watches-my.stream^$important
+||rëddït.com^$important,all
+||yoütu.be^$important,all
+||xda-developers.us^$important,all
+||särahah.eu^$important,all
+||särahah.pl^$important,all
+||xda-developers.io^$important,all
+||watches-my.stream^$important,all
 
 # Main: iplogger.org
-||iplogger.org^$important
-||iplogger.com^$important
-||iplogger.ru^$important
-||2no.co^$important
-||yip.su^$important
-||mapper.info^$important
+||iplogger.org^$important,all
+||iplogger.com^$important,all
+||iplogger.ru^$important,all
+||2no.co^$important,all
+||yip.su^$important,all
+||mapper.info^$important,all
 #iplogger.org - not publicly visible
-||ezstat.ru^$important
-||02ip.ru^$important
-||iplo.ru^$important
-||iplis.ru^$important
-||iplogger.info^$important
-||ipgrabber.ru^$important
-||ipgraber.ru^$important
+||ezstat.ru^$important,all
+||02ip.ru^$important,all
+||iplo.ru^$important,all
+||iplis.ru^$important,all
+||iplogger.info^$important,all
+||ipgrabber.ru^$important,all
+||ipgraber.ru^$important,all
 
 # Main: cyber-hub.net 
-||skypegrab.net^$important
-||fortnite-stats.site^$important
-||minecraft-skins.xyz^$important
-||booter.icu^$important
-||discordcrypt.xyz^$important
+||skypegrab.net^$important,all
+||fortnite-stats.site^$important,all
+||minecraft-skins.xyz^$important,all
+||booter.icu^$important,all
+||discordcrypt.xyz^$important,all
 
 # Main: webresolver.nl
 # - their sites redirects to authentic sites to make themself seems legit
-||gyazo.nl^$important
-||yȯutube.com^$important
+||gyazo.nl^$important,all
+||yȯutube.com^$important,all
 
 ##################
 # Unsorted sites #
 ##################
 
 # Standalones:
-||blasze.tk^$important
-||blasze.com^$important
-||myiptest.com/img.php^$important
+||blasze.tk^$important,all
+||blasze.com^$important,all
+||myiptest.com/img.php^$important,all
 #ikwyd.com - see https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
-||ikwyd.com^$important
+||ikwyd.com^$important,all
 #ps3cfw.com/cool.php?item=tracking id
-||ps3cfw.com^$important
+||ps3cfw.com^$important,all
 #dead but parent alive
-||paypal.sellbitcoins.com^$important
+||paypal.sellbitcoins.com^$important,all
 #junk/random
-||postimage.co^$important
+||postimage.co^$important,all
 
 #dead?
-||imageshack.ml^$important
-||hs.vc^$important
-||webprofile.me^$important
+||imageshack.ml^$important,all
+||hs.vc^$important,all
+||webprofile.me^$important,all
 #.me?? m seems not to be a TLD
-||publicwiki.m^$important 
-||publicwiki.me^$important 
+||publicwiki.m^$important ,all
+||publicwiki.me^$important ,all
 
 ############
 # Inactive #
 ############
 
-||spötify.com^$important
-||quickmessage.io^$important
-||yoütübe.co^$important
-||yoütübe.com^$important
-||cyberh1.xyz^$important
-||iany.pl^$important
-||my-alts.eu^$important
-||l-imgur.pl^$important
-||exec-true.eu^$important
-||tigercore.eu^$important
+||spötify.com^$important,all
+||quickmessage.io^$important,all
+||yoütübe.co^$important,all
+||yoütübe.com^$important,all
+||cyberh1.xyz^$important,all
+||iany.pl^$important,all
+||my-alts.eu^$important,all
+||l-imgur.pl^$important,all
+||exec-true.eu^$important,all
+||tigercore.eu^$important,all
 #ip.jlynx.net - jlynx.net is owned grabify.link, consider keeping as it can go online any time
-||ip.jlynx.net^$important
-||deviantartt.ml^$important
-||dropboxx.lm ^$important
-||gyazoo.ga^$important
-||printscr.ga^$important
-||youutube.gq^$important
-||strawpoll.ga^$important
-||xxox.co.uk^$important
-||leakforum.ga^$important
-||prntsc.cf^$important
-||deviantartt.ga^$important
-||dropboxx.ga^$important
-||dropboxx.cf^$important
-||strawpolll.ga^$important
-||twitte.ga^$important
-||bvog.com^$important
-||hondachat.com^$important
-||youramonkey.com^$important
-||ip-grabber.com^$important
-||imgurl.us^$important
-||sciencefuture.tk^$important
-||stresser.science^$important
-||viphackforums.xyz^$important
-||gtadb.net^$important
-||fotocerdas.com^$important
-||parlament.usa.cc^$important
-||community.hackersclub.net^$important
-||login.anal-porn.info^$important
-||panel.teamspeak.bz^$important
-||files.uploads.ws^$important
-||media.appspot.com^$important
-||hackfȯrums.net^$important
-||hackfȯrums.com^$important
-||imgúr.com^$important
-||battlė.net^$important
-||dank.host^$important
-||r1p.pw^$important
-||anonymousforum.pw^$important
-||ts3free.top^$important
-||viphackforum.xyz^$important
-||bbcnews.today^$important
-||privatexmpp.me^$important
-||topstreaming.us^$important
-||topcdn.biz^$important
-||hackernews.online^$important
-||hdblog.tech^$important
-||sexy18.webcam^$important
-||dropbox.desi^$important
-||hostingonline.desi^$important
-||freeanonymous.host^$important
-||ampnode.host^$important
-||spoofing.host^$important
-||cubeupload.xyz^$important
-||exploit-db.xyz^$important
-||disċordapp.com^$important
-||bucks.as^$important
-||twiţter.com^$important
-||sĸype.com^$important
-||transferfiles.cloud^$important
-||tvshare.co^$important
-||twitch-stats.stream^$important
-||videoblog.tech^$important
-||yoütübe.co^$important
-||yoütübe.com^$important
-||yòutube.com^$important
-||ìṃgur.com^$important
-||ġooģle.com^$important
-||rikiki.net^$important
-||gyazoo.xyz^$important
-||ipddoser.xyz^$important
-||skypecracker.xyz^$important
-||ipsnatcher.com^$important
-||skidpaste.org^$important
-||cloudfsx.com^$important
-||anonfiles.download^$important
-||bbcbloggers.co.uk^$important
-||csgopot.zone^$important
-||downthe.design^$important
-||gameskeys.shop^$important
-||hbotv.co^$important
-||i.imger.me^$important
-||imger.me^$important
-||mailble.com^$important
-||proxyfill.co^$important
-||shört.co^$important
-||spötify.com^$important
-||starbucks.bio^$important
-||steamtools.co^$important
-||linkit.cf^$important
+||ip.jlynx.net^$important,all
+||deviantartt.ml^$important,all
+||dropboxx.lm ^$important,all
+||gyazoo.ga^$important,all
+||printscr.ga^$important,all
+||youutube.gq^$important,all
+||strawpoll.ga^$important,all
+||xxox.co.uk^$important,all
+||leakforum.ga^$important,all
+||prntsc.cf^$important,all
+||deviantartt.ga^$important,all
+||dropboxx.ga^$important,all
+||dropboxx.cf^$important,all
+||strawpolll.ga^$important,all
+||twitte.ga^$important,all
+||bvog.com^$important,all
+||hondachat.com^$important,all
+||youramonkey.com^$important,all
+||ip-grabber.com^$important,all
+||imgurl.us^$important,all
+||sciencefuture.tk^$important,all
+||stresser.science^$important,all
+||viphackforums.xyz^$important,all
+||gtadb.net^$important,all
+||fotocerdas.com^$important,all
+||parlament.usa.cc^$important,all
+||community.hackersclub.net^$important,all
+||login.anal-porn.info^$important,all
+||panel.teamspeak.bz^$important,all
+||files.uploads.ws^$important,all
+||media.appspot.com^$important,all
+||hackfȯrums.net^$important,all
+||hackfȯrums.com^$important,all
+||imgúr.com^$important,all
+||battlė.net^$important,all
+||dank.host^$important,all
+||r1p.pw^$important,all
+||anonymousforum.pw^$important,all
+||ts3free.top^$important,all
+||viphackforum.xyz^$important,all
+||bbcnews.today^$important,all
+||privatexmpp.me^$important,all
+||topstreaming.us^$important,all
+||topcdn.biz^$important,all
+||hackernews.online^$important,all
+||hdblog.tech^$important,all
+||sexy18.webcam^$important,all
+||dropbox.desi^$important,all
+||hostingonline.desi^$important,all
+||freeanonymous.host^$important,all
+||ampnode.host^$important,all
+||spoofing.host^$important,all
+||cubeupload.xyz^$important,all
+||exploit-db.xyz^$important,all
+||disċordapp.com^$important,all
+||bucks.as^$important,all
+||twiţter.com^$important,all
+||sĸype.com^$important,all
+||transferfiles.cloud^$important,all
+||tvshare.co^$important,all
+||twitch-stats.stream^$important,all
+||videoblog.tech^$important,all
+||yoütübe.co^$important,all
+||yoütübe.com^$important,all
+||yòutube.com^$important,all
+||ìṃgur.com^$important,all
+||ġooģle.com^$important,all
+||rikiki.net^$important,all
+||gyazoo.xyz^$important,all
+||ipddoser.xyz^$important,all
+||skypecracker.xyz^$important,all
+||ipsnatcher.com^$important,all
+||skidpaste.org^$important,all
+||cloudfsx.com^$important,all
+||anonfiles.download^$important,all
+||bbcbloggers.co.uk^$important,all
+||csgopot.zone^$important,all
+||downthe.design^$important,all
+||gameskeys.shop^$important,all
+||hbotv.co^$important,all
+||i.imger.me^$important,all
+||imger.me^$important,all
+||mailble.com^$important,all
+||proxyfill.co^$important,all
+||shört.co^$important,all
+||spötify.com^$important,all
+||starbucks.bio^$important,all
+||steamtools.co^$important,all
+||linkit.cf^$important,all
 
 # Misc
-||fuglekos.com^$important
+||fuglekos.com^$important,all
 
 # Booters #
-||orcahub.com^$important
-||vbooter.org^$important
-||orboot.pw^$important
+||orcahub.com^$important,all
+||vbooter.org^$important,all
+||orboot.pw^$important,all
 #synstress.net
-||ddos.city^$important
-||restresser.com^$important
-||networkstresser.com^$important
-||vdos-s.com^$important
-||oxystress.eu^$important
-||freebooter.pro^$important
-||bootyou.net^$important
-||critical-boot.com^$important
-||boot4free.com^$important
-#||ipstresser.com^$important
+||ddos.city^$important,all
+||restresser.com^$important,all
+||networkstresser.com^$important,all
+||vdos-s.com^$important,all
+||oxystress.eu^$important,all
+||freebooter.pro^$important,all
+||bootyou.net^$important,all
+||critical-boot.com^$important,all
+||boot4free.com^$important,all
+#||ipstresser.com^$important,all
 
 # Third party #
 ||aruljohn.com/widget/zip/*
@@ -224,23 +224,23 @@
 #aruljohn.com * block
 
 # Misc
-||fuglekos.com^$important
+||fuglekos.com^$important,all
 
 # Url shorteners #
-||go.budurl.co^$important
-||dr.tl/*^$important
-||bit.do/*^$important
-||taveo.net/*^$important
-||bit.ly/*^$important
-||cur.lv^$important
-||slsh.us^$important
-||adf.ly^$important
-||shorte.st^$important
-||biturl.io^$important
-||hackforu.ms^$important
-||tldr.ly^$important
-||wzurl.me^$important
-||ahref.tech^$important
+||go.budurl.co^$important,all
+||dr.tl/*^$important,all
+||bit.do/*^$important,all
+||taveo.net/*^$important,all
+||bit.ly/*^$important,all
+||cur.lv^$important,all
+||slsh.us^$important,all
+||adf.ly^$important,all
+||shorte.st^$important,all
+||biturl.io^$important,all
+||hackforu.ms^$important,all
+||tldr.ly^$important,all
+||wzurl.me^$important,all
+||ahref.tech^$important,all
 
 ##############
 # Temporarly #
