@@ -7,7 +7,11 @@
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
-# iploggers
+#################################
+# Main IP Loggers #
+# Part 1-Scroll Down for Part 2 #
+# Last Updated: 27.1.2020 #
+#################################
 
 # Main: grabify.link
 ||grabify.link^$important,all
@@ -30,6 +34,15 @@
 ||youshouldclick.us^$important,all
 ||joinmy.site^$important,all
 ||crabrave.pw^$important,all
+||ajc1.cn^$important,all
+||cnyc99.com^$important,all
+||dxrbc.cn^$important,all
+||hwhssc.cn^$important,all
+||mjzssc.cn^$important,all
+||nnmssc.cn^$important,all
+||tnfbc.cn^$important,all
+||toolce.cn^$important,all
+||zjrbc.cn^$important,all
 
 #grabify.link - not publicly visible
 ||rëddït.com^$important,all
@@ -59,6 +72,7 @@
 ||ipgraber.ru^$important,all
 
 # Main: cyber-hub.net 
+# Currently disabled? as of 27/1/2020
 ||skypegrab.net^$important,all
 ||fortnite-stats.site^$important,all
 ||minecraft-skins.xyz^$important,all
@@ -70,9 +84,10 @@
 ||gyazo.nl^$important,all
 ||yȯutube.com^$important,all
 
-##################
-# Unsorted sites #
-##################
+###########################
+# Unsorted #
+# Last Updated: - #
+###########################
 
 # Standalones:
 ||blasze.tk^$important,all
@@ -88,7 +103,10 @@
 ||postimage.co^$important,all
 ||ip-tracker.org^$important,all #Dont know what is this website, seems like just a bunch of fake tools with an ip grabbing image
 
-#dead?
+###########################
+# Dead Loggers (?) #
+# Last Updated: - #
+###########################
 ||imageshack.ml^$important,all
 ||hs.vc^$important,all
 ||webprofile.me^$important,all
@@ -201,10 +219,16 @@
 ||steamtools.co^$important,all
 ||linkit.cf^$important,all
 
-# Misc
+###########################
+# Misc Loggers #
+# Last Updated: - #
+###########################
 ||fuglekos.com^$important,all
 
-# Booters #
+###########################
+# Booter Loggers #
+# Last Updated: - #
+###########################
 ||orcahub.com^$important,all
 ||vbooter.org^$important,all
 ||orboot.pw^$important,all
@@ -220,16 +244,28 @@
 ||boot4free.com^$important,all
 #||ipstresser.com^$important,all
 
-# Third party #
+###########################
+# Third-Party Loggers #
+# Last Updated: - #
+###########################
+
 ||aruljohn.com/widget/zip/*
 ||aruljohn.com/widget/ip/*
 
 #aruljohn.com * block
 
-# Misc
+###########################
+# Misc Loggers #
+# Last Updated: - #
+###########################
+
 ||fuglekos.com^$important,all
 
-# Url shorteners #
+###########################
+# URL-Shorteners #
+# Last Updated: - #
+###########################
+
 ||go.budurl.co^$important,all
 ||dr.tl/*^$important,all
 ||bit.do/*^$important,all
@@ -252,8 +288,14 @@
 #||fuglekos.com/profile/*
 ||snipe.blue^$important,all
 
+# ip loggers - part 2
+# those are done in bulk and checked
+
+###########################
 # Blazse Loggers #
-# (Domains registered below Blazse's Domain IP) #
+# Last Updated: 27.1.2020 #
+###########################
+
 ||0519.org^$important,all
 ||1111oe.com^$important,all
 ||3a71q7jt.com^$important,all
@@ -654,3 +696,294 @@
 ||yw-cd.com^$important,all
 ||zonahd.org^$important,all
 ||zoneoccupee.com^$important,all
+
+###########################
+# PS3CFW Loggers #
+# Last Updated: 27.1.2020 #
+###########################
+
+||00689.net^$important,all
+||20gbfree.club^$important,all
+||2222yo.com^$important,all
+||760tv.com^$important,all
+||95277h.com^$important,all
+||adultsex.world^$important,all
+||adventuresofcitizenx.com^$important,all
+||agenonlinesbo.com^$important,all
+||alarmanlage-hannover.de^$important,all
+||alburyaccounting.com.au^$important,all
+||alittleofwhatyoufancy.info^$important,all
+||alizararteer.pro^$important,all
+||ankety-shalav.xyz^$important,all
+||antennalaminates.com^$important,all
+||applebeesrs.com.br^$important,all
+||aquidownloads.net^$important,all
+||arakelyan.email^$important,all
+||arnaell.com^$important,all
+||artdebt.top^$important,all
+||artificialgrasslive.online^$important,all
+||askdarcel.org^$important,all
+||asoxiate.com^$important,all
+||associazionenoborders.org^$important,all
+||atlanticcustombrokers.com^$important,all
+||augloan.loan^$important,all
+||averageanteater.info^$important,all
+||azyda.ru^$important,all
+||b-coresalon.com^$important,all
+||backcountrywater.info^$important,all
+||be-a-seniorcomputerskillsok.live^$important,all
+||be-in-goas-ok.live^$important,all
+||bedandbarn.com^$important,all
+||behaku.faith^$important,all
+||beijingguidebook.com^$important,all
+||bensalem215locksmith.com^$important,all
+||bestaquariumpicks.com^$important,all
+||bestcardshuffler.icu^$important,all
+||bestrewardcardforrestaurantsin.icu^$important,all
+||bestwebsitesfast.com^$important,all
+||bimagric.com^$important,all
+||bio-rocket-blast-sale.men^$important,all
+||birsighof.ch^$important,all
+||biuro-adwokackie.pl^$important,all
+||blaquewatchepk.com^$important,all
+||brpro.online^$important,all
+||bunnygo.net^$important,all
+||buymusclemorexl.com^$important,all
+||by8luz.top^$important,all
+||cadentalimplantspage.com^$important,all
+||call-the-plumber.men^$important,all
+||cardvalet.top^$important,all
+||carlocksmithservice.bid^$important,all
+||carolinadriftingsams.com^$important,all
+||carsonstreeservices.com^$important,all
+||centenarulromaniei.ro^$important,all
+||certificadobr.info^$important,all
+||chainbit.club^$important,all
+||chicagocutsteakhouse.com^$important,all
+||chochokiw205-015jw.trade^$important,all
+||cineconchile.com^$important,all
+||com-77news-sdcno300.icu^$important,all
+||communitypulse.io^$important,all
+||cordoba.website^$important,all
+||courtneygreenrealtor.com^$important,all
+||cpybdylh.icu^$important,all
+||creation-times.com^$important,all
+||creid.eu^$important,all
+||crowningmomentsdoula.com^$important,all
+||csclientes.com.mx^$important,all
+||cyclingshorts.uk.com^$important,all
+||dambut.biz^$important,all
+||datingzap.tk^$important,all
+||delhibellyindian.com.au^$important,all
+||dietlens.com^$important,all
+||diginetz.de^$important,all
+||digitallbs.com^$important,all
+||diligenceinternational.com^$important,all
+||divorcesols.co.uk^$important,all
+||djturntableparts.site^$important,all
+||donardglencamogie.com^$important,all
+||dondemequedo.com^$important,all
+||dots-across.top^$important,all
+||dr-nils-kaiser.com^$important,all
+||drivoferreira.com^$important,all
+||drizey.live^$important,all
+||duacerayo.com^$important,all
+||dumitri587.ovh^$important,all
+||electroweb.be^$important,all
+||elincha.com^$important,all
+||enzopetrachi.it^$important,all
+||esnetmx.com^$important,all
+||esupportbest005.info^$important,all
+||expread.io^$important,all
+||extenze-review.ca^$important,all
+||eyebager.site^$important,all
+||eyesopensocialmediasafety.com.au^$important,all
+||f95qpuvjo.com^$important,all
+||fetchageneraleducation.com^$important,all
+||fiona-s.net^$important,all
+||fitnessandhealthtactics.com^$important,all
+||fitnessnutritionals.com^$important,all
+||flybynet.com.ar^$important,all
+||fortmyers-mortgage.com^$important,all
+||galloinstitute.net^$important,all
+||gamehammer.info^$important,all
+||gedichten-voor-iedereen.com^$important,all
+||gestreifthelle.site^$important,all
+||ggclk.com^$important,all
+||gjilani-smartcity.com^$important,all
+||glenelgorthopaedics.com.au^$important,all
+||globalmxcup.icu^$important,all
+||grand-eight.club^$important,all
+||grandhuntings.com^$important,all
+||gray-vomkleinenhirten.de^$important,all
+||groukmout.live^$important,all
+||gwbdt.com^$important,all
+||haveadentalimplantsshop.com^$important,all
+||heartbeatsconsulting.com^$important,all
+||heathlylifestyleguide.com^$important,all
+||hongkongtower-kanglong.com^$important,all
+||i56ad.site^$important,all
+||impactprintingdenver.com^$important,all
+||importadosoriginaisfx.tk^$important,all
+||infopi.co^$important,all
+||inspiratorfreak.com^$important,all
+||inspiring-sustainability.com^$important,all
+||interventionspecialists.com^$important,all
+||investorinthefamilyservices.com^$important,all
+||ipc360.org^$important,all
+||isitforreal.club^$important,all
+||jambocom.xyz^$important,all
+||jamoontree.net^$important,all
+||jasonmartin.xyz^$important,all
+||jbehrmusic.com^$important,all
+||jfpronline.info^$important,all
+||juancarloscubeiro.com^$important,all
+||kangyulai.com^$important,all
+||kankandm.com^$important,all
+||kdramalink.com^$important,all
+||kepmarathon.com^$important,all
+||kho088.com^$important,all
+||kiwisconnect.org.nz^$important,all
+||klinikangka.org^$important,all
+||leaveoperaing.world^$important,all
+||legalbarcode.com^$important,all
+||legendturk.shop^$important,all
+||leiarimet.com^$important,all
+||lifergames.website^$important,all
+||lithoessa.gr^$important,all
+||loehzeq.bid^$important,all
+||longerdependent.com^$important,all
+||lumomongoose.com^$important,all
+||lvvi.icu^$important,all
+||magicminutes.co.uk^$important,all
+||mappufusion.site^$important,all
+||marie-robin.fr^$important,all
+||mc183.com^$important,all
+||mcameraonline.club^$important,all
+||mervetos.com^$important,all
+||mid-coast-tire.com^$important,all
+||minhmui.com^$important,all
+||miskant.co^$important,all
+||mok55.com^$important,all
+||motoronter.com^$important,all
+||mototech.co.il^$important,all
+||mulletsighting.com^$important,all
+||myorange.co^$important,all
+||myown42.com^$important,all
+||nailkitofficial.com^$important,all
+||nairobiysten.xyz^$important,all
+||nakedglamsexpertise.com^$important,all
+||nationwidepeople.com^$important,all
+||nethrie.com^$important,all
+||ninjax.io^$important,all
+||ntube.party^$important,all
+||nubilespics.com^$important,all
+||omentribok.pro^$important,all
+||onis-prom.ru^$important,all
+||opexchange.com^$important,all
+||outandappear.win^$important,all
+||ovrmxaqfashion.xyz^$important,all
+||oxyo2.com^$important,all
+||packedbridge.bid^$important,all
+||pandorabracelets.win^$important,all
+||parfems.sk^$important,all
+||patita.tk^$important,all
+||pausebas.xyz^$important,all
+||pkkm5.com^$important,all
+||plantationwomansclubgfwc.com^$important,all
+||plumcafebistro.com^$important,all
+||preferredonlineloansnophonecalls.xyz^$important,all
+||princessoflemnos.gr^$important,all
+||profilebakanlar.com^$important,all
+||ps3cfw.com^$important,all
+||puertoricotours.us^$important,all
+||qrg1c.us^$important,all
+||quit-smoking-today.info^$important,all
+||realbridge.xyz^$important,all
+||realestatecallsagency.com^$important,all
+||reamproperty.com^$important,all
+||rees-magazin.de^$important,all
+||rehab-centers-alcohol-addiction.com^$important,all
+||rencontreangers.tk^$important,all
+||restauracenanove.cz^$important,all
+||revokedmob.com^$important,all
+||rezh-gid.ru^$important,all
+||ritymusccs.com^$important,all
+||ro-casinogames.com^$important,all
+||robberscull.com^$important,all
+||rodeostampedehack.pro^$important,all
+||russianporn.tv^$important,all
+||safeemergency.com^$important,all
+||san-fernando.es^$important,all
+||saskya.com.br^$important,all
+||scan-5398.win^$important,all
+||schaudt.eu^$important,all
+||searchproducts2017.review^$important,all
+||selectivparfumes.ru^$important,all
+||sellarafaeli.com^$important,all
+||sentwrote.live^$important,all
+||servicelaptop.eu^$important,all
+||sevilladentalcare.com^$important,all
+||sexconjugale.racing^$important,all
+||shvana.com^$important,all
+||skarabeos-shop.de^$important,all
+||skinhelpsky.pro^$important,all
+||skmssc.icu^$important,all
+||sma-norge.no^$important,all
+||smsolutions.co.in^$important,all
+||snapchatscorehack.site^$important,all
+||sortrashion.com^$important,all
+||srt.icu^$important,all
+||ssrpaner.xyz^$important,all
+||statblog.ru^$important,all
+||stephenfarrell.io^$important,all
+||stisla.com^$important,all
+||sudburyautoglass.ca^$important,all
+||sunbeach.fr^$important,all
+||superior-net.tech^$important,all
+||supnim.com^$important,all
+||sweethomeclean.online^$important,all
+||tcam.club^$important,all
+||techniche.org.in^$important,all
+||teknist.xyz^$important,all
+||tentcity4.info^$important,all
+||thebubbleprocess.com^$important,all
+||thegenerouschef.com^$important,all
+||theunderheard.com^$important,all
+||timberyart.gr^$important,all
+||tranquilodobem.site^$important,all
+||tvaktuality.cz^$important,all
+||tvmacs.com^$important,all
+||txhomeinsurance.com^$important,all
+||uprav559.ru^$important,all
+||uscfootball.us^$important,all
+||vanillaicebook.com^$important,all
+||vbivaia.site^$important,all
+||velis.fr^$important,all
+||veltrodevelopment.com^$important,all
+||vendoradvocatemelb.com.au^$important,all
+||vietnamquehuong.com^$important,all
+||vivamariapizza.com^$important,all
+||vnb77.com^$important,all
+||voyageskinhealth.com^$important,all
+||vuthanhluan.com^$important,all
+||webtube.land^$important,all
+||winjudi77.biz^$important,all
+||wodemind.net^$important,all
+||xanahouse1.com^$important,all
+||xc7s.icu^$important,all
+||xmzbsjgv.icu^$important,all
+||xn--zqsu8k5y0b.com^$important,all
+||xtydt.icu^$important,all
+||xxoo6.com^$important,all
+||xyyiyuan.cn^$important,all
+||yesfifa.com^$important,all
+||ymo.co.za^$important,all
+||yo6.co^$important,all
+||yoshikanegroup.com^$important,all
+||youlikehookups.com^$important,all
+||yukongoldextremeapp.com^$important,all
+||yymoli.net^$important,all
+||z3uu.com^$important,all
+||zzssfc.tk^$important,all
+
