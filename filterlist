@@ -1,6 +1,6 @@
 ! Title: Piperun's iplogger filter
 ! Expires: 3 days
-! Last modified: 24 August 2020
+! Last modified: 23 September 2020
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! Contribute: https://github.com/piperun/iploggerfilter/issues
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
@@ -10,7 +10,7 @@
 #################################
 # Main IP Loggers #
 # Part 1-Scroll Down for Part 2 #
-# Last Updated: 27.1.2020 #
+# Last Updated: 23.9.2020 #
 #################################
 
 # Main: grabify.link
@@ -44,6 +44,23 @@
 ||toolce.cn^$important,all
 ||zjrbc.cn^$important,all
 ||catsnthing.com^$important,all
+||lovebird.guru^$important,all
+||trulove.guru^$important,all
+||dateing.club^$important,all
+||otherhalf.life^$important,all
+||shrekis.life^$important,all
+||datasig.io^$important,all
+||datauth.io^$important,all
+||headshot.monster^$important,all
+||gaming-at-my.best^$important,all
+||progaming.monster^$important,all
+||yourmy.monster^$important,all
+||screenshare.host^$important,all
+||imageshare.best^$important,all
+||screenshot.best^$important,all
+||gamingfun.me^$important,all
+||catsnthings.fun^$important,all
+||curiouscat.club^$important,all
 
 #grabify.link - not publicly visible
 ||rëddït.com^$important,all
@@ -264,7 +281,7 @@
 
 ###########################
 # URL-Shorteners #
-# Last Updated: - #
+# Last Updated: 23.9.2020 #
 ###########################
 
 ||go.budurl.co^$important,all
@@ -280,6 +297,15 @@
 ||tldr.ly^$important,all
 ||wzurl.me^$important,all
 ||ahref.tech^$important,all
+||bc.vc^$important,all
+||soo.gd^$important,all
+||7.ly^$important,all
+||5.gp^$important,all
+||tiny.cc^$important,all
+||ouo.io^$important,all
+||zzb.bz^$important,all
+||adfoc.us^$important,all
+||my.su^$important,all
 
 ##############
 # Temporarly #
