@@ -10,7 +10,7 @@
 #################################
 # Main IP Loggers #
 # Part 1-Scroll Down for Part 2 #
-# Last Updated: 23.9.2020 #
+# Last Updated: 12.11.2020 #
 #################################
 
 # Main: grabify.link
@@ -109,6 +109,13 @@
 ||linkify.me^$important,all
 ||bitly-bot.com^$important,all
 ||adfly-bot.online^$important,all
+
+# Main: ctrlhub.co
+||gyazo.nl^important,all
+||yȯutube.com^important,all
+
+#Main: grabify.icu
+||grabify.icu^important,all
 
 ###########################
 # Unsorted #
