@@ -99,6 +99,7 @@
 
 # Main: webresolver.nl
 # - their sites redirects to authentic sites to make themself seems legit
+# - Also known as: ctrlhub.co & iplogger.us
 ||gyazo.nl^$important,all
 ||yȯutube.com^$important,all
 
@@ -109,10 +110,6 @@
 ||linkify.me^$important,all
 ||bitly-bot.com^$important,all
 ||adfly-bot.online^$important,all
-
-# Main: ctrlhub.co
-||gyazo.nl^important,all
-||yȯutube.com^important,all
 
 #Main: grabify.icu
 ||grabify.icu^important,all
