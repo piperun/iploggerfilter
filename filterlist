@@ -108,6 +108,7 @@
 # Main: linkify.me
 ||linkify.me^$important,all
 ||bitly-bot.com^$important,all
+||adfly-bot.online^$important,all
 
 ###########################
 # Unsorted #
