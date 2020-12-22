@@ -144,8 +144,8 @@
 ||hs.vc^$important,all
 ||webprofile.me^$important,all
 #.me?? m seems not to be a TLD
-||publicwiki.m^$important ,all
-||publicwiki.me^$important ,all
+||publicwiki.m^$important,all
+||publicwiki.me^$important,all
 
 ############
 # Inactive #
