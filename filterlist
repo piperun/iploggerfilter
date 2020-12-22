@@ -117,6 +117,7 @@
 #Main: myiptest.com
 ||myiptest.com^important,all
 ||myiptest.com/img.php^$important,all
+||myiptest.com/staticpages/index.php/how-about-you^$important,all
 
 ###########################
 # Unsorted #
