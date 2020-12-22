@@ -114,6 +114,10 @@
 #Main: grabify.icu
 ||grabify.icu^important,all
 
+#Main: myiptest.com
+||myiptest.com^important,all
+||myiptest.com/img.php^$important,all
+
 ###########################
 # Unsorted #
 # Last Updated: - #
@@ -122,7 +126,6 @@
 # Standalones:
 ||blasze.tk^$important,all
 ||blasze.com^$important,all
-||myiptest.com/img.php^$important,all
 #ikwyd.com - see https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
 ||ikwyd.com^$important,all
 #ps3cfw.com/cool.php?item=tracking id
