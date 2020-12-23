@@ -1,4 +1,4 @@
-! Title: Piperun's iplogger filter
+! Title: Piperun's IP-Logger Filter
 ! Expires: 3 days
 ! Last modified: 22 December 2020
 ! Homepage: https://github.com/piperun/iploggerfilter
@@ -98,7 +98,7 @@
 ||discordcrypt.xyz^$important,all
 
 # Main: webresolver.nl
-# - their sites redirects to authentic sites to make themself seems legit
+# - Their sites redirects to authentic sites to make themself seems legit
 # - Also known as: ctrlhub.co & iplogger.us
 ||gyazo.nl^$important,all
 ||yȯutube.com^$important,all
@@ -126,7 +126,7 @@
 # Standalones:
 ||blasze.tk^$important,all
 ||blasze.com^$important,all
-#ikwyd.com - see https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
+#ikwyd.com - See https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
 ||ikwyd.com^$important,all
 #ps3cfw.com/cool.php?item=tracking id
 ||ps3cfw.com^$important,all
@@ -164,7 +164,7 @@
 #ip.jlynx.net - jlynx.net is owned grabify.link, consider keeping as it can go online any time
 ||ip.jlynx.net^$important,all
 ||deviantartt.ml^$important,all
-||dropboxx.lm ^$important,all
+||dropboxx.lm^$important,all
 ||gyazoo.ga^$important,all
 ||printscr.ga^$important,all
 ||youutube.gq^$important,all
@@ -330,8 +330,8 @@
 #||fuglekos.com/profile/*
 ||snipe.blue^$important,all
 
-# ip loggers - part 2
-# those are done in bulk and checked
+# IP Loggers - part 2
+# Those are done in bulk and checked
 
 ###########################
 # Blazse Loggers #
@@ -1028,4 +1028,3 @@
 ||yymoli.net^$important,all
 ||z3uu.com^$important,all
 ||zzssfc.tk^$important,all
-
