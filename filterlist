@@ -1,4 +1,4 @@
-! Title: Piperun's iplogger filter
+! Title: Piperun's IP-Logger Filter
 ! Expires: 3 days
 ! Last modified: 22 December 2020
 ! Homepage: https://github.com/piperun/iploggerfilter
@@ -115,7 +115,7 @@
 ||grabify.icu^important,all
 
 #Main: myiptest.com
-||myiptest.com^$important,all
+||myiptest.com^important,all
 ||myiptest.com/img.php^$important,all
 
 ###########################
@@ -164,7 +164,7 @@
 #ip.jlynx.net - jlynx.net is owned grabify.link, consider keeping as it can go online any time
 ||ip.jlynx.net^$important,all
 ||deviantartt.ml^$important,all
-||dropboxx.lm ^$important,all
+||dropboxx.lm^$important,all
 ||gyazoo.ga^$important,all
 ||printscr.ga^$important,all
 ||youutube.gq^$important,all
@@ -326,11 +326,11 @@
 # Temporarly #
 ##############
 
-# Image hosting #
+# Image Hosting #
 #||fuglekos.com/profile/*
 ||snipe.blue^$important,all
 
-# ip loggers - part 2
+# IP Loggers - part 2
 # those are done in bulk and checked
 
 ###########################
@@ -1028,4 +1028,3 @@
 ||yymoli.net^$important,all
 ||z3uu.com^$important,all
 ||zzssfc.tk^$important,all
-
