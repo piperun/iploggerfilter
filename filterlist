@@ -115,7 +115,7 @@
 ||grabify.icu^important,all
 
 #Main: myiptest.com
-||myiptest.com^important,all
+||myiptest.com^$important,all
 ||myiptest.com/img.php^$important,all
 
 ###########################
