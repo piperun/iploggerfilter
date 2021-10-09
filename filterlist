@@ -113,6 +113,7 @@
 
 #Main: grabify.icu
 ||grabify.icu^important,all
+||maifile.cn^important,all
 
 #Main: myiptest.com
 ||myiptest.com^$important,all
@@ -135,6 +136,7 @@
 #junk/random
 ||postimage.co^$important,all
 ||ip-tracker.org^$important,all #Dont know what is this website, seems like just a bunch of fake tools with an ip grabbing image
+||ip-puller.com^$important,all #Looks to be fake tools with Lorem Ipsum placer text
 
 ###########################
 # Dead Loggers (?) #
