@@ -1,6 +1,6 @@
 ! Title: Piperun's IP-Logger Filter
 ! Expires: 3 days
-! Last modified: 22 December 2020
+! Last modified: 09 October 2021
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! Contribute: https://github.com/piperun/iploggerfilter/issues
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
@@ -113,6 +113,7 @@
 
 #Main: grabify.icu
 ||grabify.icu^important,all
+||maifile.cn^important,all
 
 #Main: myiptest.com
 ||myiptest.com^$important,all
@@ -135,6 +136,7 @@
 #junk/random
 ||postimage.co^$important,all
 ||ip-tracker.org^$important,all #Dont know what is this website, seems like just a bunch of fake tools with an ip grabbing image
+||ip-puller.com^$important,all #Looks to be fake tools with Lorem Ipsum placer text
 
 ###########################
 # Dead Loggers (?) #
@@ -306,6 +308,7 @@
 ||cur.lv^$important,all
 ||slsh.us^$important,all
 ||adf.ly^$important,all
+||cutt.ly^$important,all
 ||shorte.st^$important,all
 ||biturl.io^$important,all
 ||hackforu.ms^$important,all
