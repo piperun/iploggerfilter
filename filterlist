@@ -1,585 +1,583 @@
 ! Title: Piperun's IP-Logger Filter
 ! Expires: 3 days
 ! Last modified: 09 October 2021
-! Homepage: https: // github.com/piperun/iploggerfilter
-! Contribute: https: // github.com/piperun/iploggerfilter/issues
-! License: https: // github.com/piperun/iploggerfilter/blob/master/LICENSE
-# WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+! Homepage: https://github.com/piperun/iploggerfilter
+! Contribute: https://github.com/piperun/iploggerfilter/issues
+! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
+# WARNING: Sites listed below can be harmful. Please,do not visit them if you don't know what you're doing!
 #################################
 # Main IP Loggers #
 # Part 1-Scroll Down for Part 2 #
 # Last Updated: 12.11.2020 #
 #################################
 # Main: grabify.link
-| | grabify.link ^$important, all
-| | bmwforum.co ^$important, all
-| | leancoding.co ^$important, all
-| | spottyfly.com ^$important, all
-| | stopify.co ^$important, all
-| | starbucksiswrong.com ^$important, all
-| | minecräft.com ^$important, all
-| | freegiftcards.co ^$important, all
-| | disçordapp.com ^$important, all
-| | xda-developers.us ^$important, all
-| | quickmessage.us ^$important, all
-| | fortnight.space ^$important, all
-| | fortnitechat.site ^$important, all
-| | youshouldclick.us ^$important, all
-| | joinmy.site ^$important, all
-| | crabrave.pw ^$important, all
-| | ajc1.cn ^$important, all
-| | zjrbc.cn ^$important, all
-| | catsnthing.com ^$important, all
-| | lovebird.guru ^$important, all
-| | trulove.guru ^$important, all
-| | dateing.club ^$important, all
-| | otherhalf.life ^$important, all
-| | shrekis.life ^$important, all
-| | datasig.io ^$important, all
-| | datauth.io ^$important, all
-| | headshot.monster ^$important, all
-| | gaming-at-my.best ^$important, all
-| | progaming.monster ^$important, all
-| | yourmy.monster ^$important, all
-| | imageshare.best ^$important, all
-| | screenshot.best ^$important, all
-| | gamingfun.me ^$important, all
-| | catsnthings.fun ^$important, all
-| | curiouscat.club ^$important, all
-# grabify.link - not publicly visible
-| | xda-developers.us ^$important, all
-| | alanlindsay.net ^$important, all
-| | asianrbtrade.net ^$important, all
+||grabify.link^$important,all
+||bmwforum.co^$important,all
+||leancoding.co^$important,all
+||spottyfly.com^$important,all
+||stopify.co^$important,all
+||starbucksiswrong.com^$important,all
+||minecräft.com^$important,all
+||freegiftcards.co^$important,all
+||disçordapp.com^$important,all
+||xda-developers.us^$important,all
+||quickmessage.us^$important,all
+||fortnight.space^$important,all
+||fortnitechat.site^$important,all
+||youshouldclick.us^$important,all
+||joinmy.site^$important,all
+||crabrave.pw^$important,all
+||ajc1.cn^$important,all
+||zjrbc.cn^$important,all
+||catsnthing.com^$important,all
+||lovebird.guru^$important,all
+||trulove.guru^$important,all
+||dateing.club^$important,all
+||otherhalf.life^$important,all
+||shrekis.life^$important,all
+||datasig.io^$important,all
+||datauth.io^$important,all
+||headshot.monster^$important,all
+||gaming-at-my.best^$important,all
+||progaming.monster^$important,all
+||yourmy.monster^$important,all
+||imageshare.best^$important,all
+||screenshot.best^$important,all
+||gamingfun.me^$important,all
+||catsnthings.fun^$important,all
+||curiouscat.club^$important,all
+#grabify.link - not publicly visible
+||xda-developers.us^$important,all
+||alanlindsay.net^$important,all
+||asianrbtrade.net^$important,all
 # Main: iplogger.org
-| | iplogger.org ^$important, all
-| | iplogger.com ^$important, all
-| | iplogger.ru ^$important, all
-| | 2no.co ^$important, all
-| | yip.su ^$important, all
-| | mapper.info ^$important, all
-# iplogger.org - not publicly visible
-| | ezstat.ru ^$important, all
-| | 02ip.ru ^$important, all
-| | iplis.ru ^$important, all
-| | iplogger.info ^$important, all
-| | ipgrabber.ru ^$important, all
-| | ipgraber.ru ^$important, all
-# Main: cyber-hub.net
+||iplogger.org^$important,all
+||iplogger.com^$important,all
+||iplogger.ru^$important,all
+||2no.co^$important,all
+||yip.su^$important,all
+||mapper.info^$important,all
+#iplogger.org - not publicly visible
+||ezstat.ru^$important,all
+||02ip.ru^$important,all
+||iplis.ru^$important,all
+||iplogger.info^$important,all
+||ipgrabber.ru^$important,all
+||ipgraber.ru^$important,all
+# Main: cyber-hub.net 
 # Currently disabled? as of 27/1/2020
-| | skypegrab.net ^$important, all
-| | fortnite-stats.site ^$important, all
-| | booter.icu ^$important, all
+||skypegrab.net^$important,all
+||fortnite-stats.site^$important,all
+||booter.icu^$important,all
 # Main: webresolver.nl
 # - Their sites redirects to authentic sites to make themself seems legit
 # - Also known as: ctrlhub.co & iplogger.us
-| | gyazo.nl ^$important, all
+||gyazo.nl^$important,all
 # Main: adf.ly
-| | atharori.net ^$important, all
+||atharori.net^$important,all
 # Main: linkify.me
-| | linkify.me ^$important, all
-| | bitly-bot.com ^$important, all
-| | adfly-bot.online ^$important, all
+||linkify.me^$important,all
+||bitly-bot.com^$important,all
+||adfly-bot.online^$important,all
 #Main: grabify.icu
-| | grabify.icu ^ important, all
-| | maifile.cn ^ important, all
+||grabify.icu^important,all
+||maifile.cn^important,all
 #Main: myiptest.com
-| | myiptest.com ^$important, all
-| | myiptest.com/img.php ^$important, all
+||myiptest.com^$important,all
+||myiptest.com/img.php^$important,all
 ###########################
 # Unsorted #
 # Last Updated: - #
 ###########################
 # Standalones:
-| | blasze.tk ^$important, all
-| | blasze.com ^$important, all
-# ikwyd.com - See https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
-| | ikwyd.com ^$important, all
-# ps3cfw.com/cool.php?item=tracking id
-| | ps3cfw.com ^$important, all
-# dead but parent alive
-# junk/random
-| | postimage.co ^$important, all
-# Dont know what is this website, seems like just a bunch of fake tools with an ip grabbing image
-| | ip-tracker.org ^$important, all
-# Looks to be fake tools with Lorem Ipsum placer text
-| | ip-puller.com ^$important, all
+||blasze.tk^$important,all
+||blasze.com^$important,all
+#ikwyd.com - See https://iknowwhatyoudownload.com,they automask links behind google shorterner,use redirect tracing
+||ikwyd.com^$important,all
+#ps3cfw.com/cool.php?item=tracking id
+||ps3cfw.com^$important,all
+#dead but parent alive
+#junk/random
+||postimage.co^$important,all
+||ip-tracker.org^$important,all #Dont know what is this website,seems like just a bunch of fake tools with an ip grabbing image
+||ip-puller.com^$important,all #Looks to be fake tools with Lorem Ipsum placer text
 ###########################
 # Dead Loggers (?) #
 # Last Updated: - #
 ###########################
-| | hs.vc ^$important, all
-| | webprofile.me ^$important, all
-# .me?? m seems not to be a TLD
-| | publicwiki.m ^$important, all
+||hs.vc^$important,all
+||webprofile.me^$important,all
+#.me?? m seems not to be a TLD
+||publicwiki.m^$important,all
 ############
 # Inactive #
 ############
-| | quickmessage.io ^$important, all
-# ip.jlynx.net - jlynx.net is owned grabify.link, consider keeping as it can go online any time
-| | ip.jlynx.net ^$important, all
-| | deviantartt.ml ^$important, all
-| | dropboxx.lm ^$important, all
-| | gyazoo.ga ^$important, all
-| | youutube.gq ^$important, all
-| | bvog.com ^$important, all
-| | hondachat.com ^$important, all
-| | youramonkey.com ^$important, all
-| | ip-grabber.com ^$important, all
-| | imgurl.us ^$important, all
-| | parlament.usa.cc ^$important, all
-| | files.uploads.ws ^$important, all
-| | media.appspot.com ^$important, all
-| | dank.host ^$important, all
-| | bbcnews.today ^$important, all
-| | topcdn.biz ^$important, all
-| | hackernews.online ^$important, all
-| | cubeupload.xyz ^$important, all
-| | sĸype.com ^$important, all
-| | tvshare.co ^$important, all
-| | videoblog.tech ^$important, all
-| | rikiki.net ^$important, all
-| | ipsnatcher.com ^$important, all
-| | anonfiles.download ^$important, all
-| | hbotv.co ^$important, all
-| | imger.me ^$important, all
-| | starbucks.bio ^$important, all
-| | steamtools.co ^$important, all
+||quickmessage.io^$important,all
+#ip.jlynx.net - jlynx.net is owned grabify.link,consider keeping as it can go online any time
+||ip.jlynx.net^$important,all
+||deviantartt.ml^$important,all
+||dropboxx.lm^$important,all
+||gyazoo.ga^$important,all
+||youutube.gq^$important,all
+||bvog.com^$important,all
+||hondachat.com^$important,all
+||youramonkey.com^$important,all
+||ip-grabber.com^$important,all
+||imgurl.us^$important,all
+||parlament.usa.cc^$important,all
+||files.uploads.ws^$important,all
+||media.appspot.com^$important,all
+||dank.host^$important,all
+||bbcnews.today^$important,all
+||topcdn.biz^$important,all
+||hackernews.online^$important,all
+||cubeupload.xyz^$important,all
+||sĸype.com^$important,all
+||tvshare.co^$important,all
+||videoblog.tech^$important,all
+||rikiki.net^$important,all
+||ipsnatcher.com^$important,all
+||anonfiles.download^$important,all
+||hbotv.co^$important,all
+||imger.me^$important,all
+||starbucks.bio^$important,all
+||steamtools.co^$important,all
 ###########################
 # Misc Loggers #
 # Last Updated: - #
 ###########################
-| | fuglekos.com ^$important, all
+||fuglekos.com^$important,all
 ###########################
 # Booter Loggers #
 # Last Updated: - #
 ###########################
-| | orcahub.com ^$important, all
-| | vbooter.org ^$important, all
+||orcahub.com^$important,all
+||vbooter.org^$important,all
 # synstress.net
-| | ddos.city ^$important, all
-| | networkstresser.com ^$important, all
-| | vdos-s.com ^$important, all
-| | oxystress.eu ^$important, all
-| | bootyou.net ^$important, all
-| | critical-boot.com ^$important, all
-| | boot4free.com ^$important, all
-# ||ipstresser.com^$important,all
+||ddos.city^$important,all
+||networkstresser.com^$important,all
+||vdos-s.com^$important,all
+||oxystress.eu^$important,all
+||bootyou.net^$important,all
+||critical-boot.com^$important,all
+||boot4free.com^$important,all
+#||ipstresser.com^$important,all
 ###########################
 # Third-Party Loggers #
 # Last Updated: - #
 ###########################
-| | aruljohn.com/widget/zip/*
-| | aruljohn.com/widget/ip/*
+||aruljohn.com/widget/zip/*
+||aruljohn.com/widget/ip/*
 #aruljohn.com * block
 ###########################
 # Misc Loggers #
 # Last Updated: - #
 ###########################
-| | fuglekos.com ^$important, all
+||fuglekos.com^$important,all
 ###########################
 # URL-Shorteners #
 # Last Updated: 23.9.2020 #
 ###########################
-| | go.budurl.co ^$important, all
-| | dr.tl/* ^$important, all
-| | bit.do/* ^$important, all
-| | taveo.net/* ^$important, all
-| | cur.lv ^$important, all
-| | adf.ly ^$important, all
-| | cutt.ly ^$important, all
-| | shorte.st ^$important, all
-| | biturl.io ^$important, all
-| | tldr.ly ^$important, all
-| | wzurl.me ^$important, all
-| | bc.vc ^$important, all
-| | soo.gd ^$important, all
-| | 7.ly ^$important, all
-| | 5.gp ^$important, all
-| | tiny.cc ^$important, all
-| | ouo.io ^$important, all
-| | zzb.bz ^$important, all
-| | adfoc.us ^$important, all
-| | my.su ^$important, all
+||go.budurl.co^$important,all
+||dr.tl/*^$important,all
+||bit.do/*^$important,all
+||taveo.net/*^$important,all
+||cur.lv^$important,all
+||adf.ly^$important,all
+||cutt.ly^$important,all
+||shorte.st^$important,all
+||biturl.io^$important,all
+||tldr.ly^$important,all
+||wzurl.me^$important,all
+||bc.vc^$important,all
+||soo.gd^$important,all
+||7.ly^$important,all
+||5.gp^$important,all
+||tiny.cc^$important,all
+||ouo.io^$important,all
+||zzb.bz^$important,all
+||adfoc.us^$important,all
+||my.su^$important,all
 ##############
 # Temporarly #
 ##############
 # Image hosting #
-# ||fuglekos.com/profile/*
+#||fuglekos.com/profile/*
 # IP Loggers - part 2
 # Those are done in bulk and checked
 ###########################
 # Blazse Loggers #
 # Last Updated: 27.1.2020 #
 ###########################
-| | 0519.org ^$important, all
-| | 1111oe.com ^$important, all
-| | 65nq.com ^$important, all
-| | 8-crm.com ^$important, all
-| | 8forum-bahis.com ^$important, all
-| | adairhomesyakima.com ^$important, all
-| | adhd-solutions-now.live ^$important, all
-| | adkinnovations.com ^$important, all
-| | allinclusivevacationsfan.com ^$important, all
-| | ambernightdvd.com ^$important, all
-| | apartmentsbaska.com ^$important, all
-| | apolloniadentalllc.com ^$important, all
-| | arthistoryunstuffed.com ^$important, all
-| | autobars.co.uk ^$important, all
-| | azbelgium.com ^$important, all
-| | azuviraza.com ^$important, all
-| | bandr.com.ua ^$important, all
-| | bauldenotas.com ^$important, all
-| | bbphotography.com ^$important, all
-| | bcuchargers.com ^$important, all
-| | beckercad.com ^$important, all
-| | bf-games.net ^$important, all
-| | bisabet.co ^$important, all
-| | blasze.com ^$important, all
-| | bodybuilding.co.uk ^$important, all
-| | boutikcondosvip.ca ^$important, all
-| | budgetapotheek.eu ^$important, all
-| | campbellcontracting.nz ^$important, all
-| | carolrutgersrealestate.com ^$important, all
-| | cartouchespourfondationdesbrules.be ^$important, all
-| | casumocasino.no ^$important, all
-| | chiangmaihotels.co ^$important, all
-| | cloudspit.com ^$important, all
-| | cnliuan.com ^$important, all
-| | consult4jobs.com ^$important, all
-| | contemporaryfineart.com ^$important, all
-| | coremproperties.com ^$important, all
-| | corporategroup.co.uk ^$important, all
-| | covenantfinancial.org ^$important, all
-| | crms.org.sg ^$important, all
-| | cursosneuromarketing.com ^$important, all
-| | dangerfieldconsulting.com ^$important, all
-| | dc1199.com ^$important, all
-| | detektivconan-tube.com ^$important, all
-| | dhansz.xyz ^$important, all
-| | digitalchallenger.com ^$important, all
-| | doma-uborka.ru ^$important, all
-| | donebuilders.com ^$important, all
-| | duoyelou.com ^$important, all
-| | dwmballet.com ^$important, all
-| | elitepracticetraining.com ^$important, all
-| | epay.ir ^$important, all
-| | estesparkwiki.org ^$important, all
-| | eyupcelik.com.tr ^$important, all
-| | fatehmechanicalworks.com.au ^$important, all
-| | fdufault.com ^$important, all
-| | filippomascoli.it ^$important, all
-| | finestherbalist.com ^$important, all
-| | flash-fm.tk ^$important, all
-| | foundationk.com ^$important, all
-| | frame.hosting ^$important, all
-| | fusionadvisors. in ^$important, all
-| | fxinvestigate.com ^$important, all
-| | gain-a-dentalimplantssite.fyi ^$important, all
-| | gameofstones.com ^$important, all
-| | garcinia-six.com ^$important, all
-| | geobug.net ^$important, all
-| | glhconsulting.hu ^$important, all
-| | gnoubalarab.com ^$important, all
-| | greatdebtconsolidationpro.com ^$important, all
-| | greatnewplaces.com ^$important, all
-| | griptruckshouston.com ^$important, all
-| | hackmylife.de ^$important, all
-| | hamarisafalta.com ^$important, all
-| | hdringtones.com ^$important, all
-| | het-wittehuis.nl ^$important, all
-| | heymistr.com ^$important, all
-| | hollylsmith.com ^$important, all
-| | hondapons.com ^$important, all
-| | ht1. in ^$important, all
-| | httbuy.com ^$important, all
-| | impactlc.net ^$important, all
-| | jackmedway.co.uk ^$important, all
-| | jameskellywnid.net ^$important, all
-| | jcintersonic.com ^$important, all
-| | jeppes.info ^$important, all
-| | johncharcol.com ^$important, all
-| | jump4lovescam.com ^$important, all
-| | kaizennj.com ^$important, all
-| | kazino-vulkan-play.com ^$important, all
-| | keris4d.com ^$important, all
-| | kerseyvalleyaxethrowing.com ^$important, all
-| | kreatemore.com ^$important, all
-| | laenergiadeltrigo.com ^$important, all
-| | landes-terroir.com ^$important, all
-| | lappas.com.gr ^$important, all
-| | latinolove.com ^$important, all
-| | lidian.info ^$important, all
-| | lynngarytherapy.com ^$important, all
-| | maahouse.com ^$important, all
-| | magneticva.com ^$important, all
-| | mailsquadron.net ^$important, all
-| | makerlab.ca ^$important, all
-| | mamamiapizzeriaoffresno.com ^$important, all
-| | markleppke.com ^$important, all
-| | masqu3rade.com ^$important, all
-| | matteodallombra.net ^$important, all
-| | mbcv.co.il ^$important, all
-| | menteinovadora.com.br ^$important, all
-| | mgfetes.fr ^$important, all
-| | microramcomputers.com ^$important, all
-| | mlbmusiccity.com ^$important, all
-| | mmsoa.com ^$important, all
-| | multitelusa.net ^$important, all
-| | museumsinamerica.com ^$important, all
-| | mynews-line.com ^$important, all
-| | mzwhx.com ^$important, all
-| | nairn101.me ^$important, all
-| | naturallyearthfriendly.com ^$important, all
-| | niculae.net ^$important, all
-| | nilay.com.br ^$important, all
-| | olaris.com.au ^$important, all
-| | opticaforteza.com ^$important, all
-| | ozonestimulation.com ^$important, all
-| | packet-radio.net ^$important, all
-| | papahughes.com.au ^$important, all
-| | parafiaswtrojcy.pl ^$important, all
-| | parcoursmed.com ^$important, all
-| | patrickmurphy.me ^$important, all
-| | paylessuniformsrgv.com ^$important, all
-| | pbj-gallery.com ^$important, all
-| | piyambakan.com ^$important, all
-| | ppen-timo.de ^$important, all
-| | prawnik-katowice.pl ^$important, all
-| | princessofsachempond.com ^$important, all
-| | progresskarate.com ^$important, all
-| | publishxpress.com ^$important, all
-| | puertoricanwomen.info ^$important, all
-| | purchasingauctions.co.uk ^$important, all
-| | qaziler.az ^$important, all
-| | radiosinus.se ^$important, all
-| | rajskajahorina.com ^$important, all
-| | redbirdagents.com ^$important, all
-| | redjezelf.net ^$important, all
-| | replicasderelogiosaa.com.br ^$important, all
-| | riboli.it ^$important, all
-| | rodeonlinesurveys.co.za ^$important, all
-| | rogermccay.org ^$important, all
-| | rolypolypuppies.com ^$important, all
-| | rosylia.net ^$important, all
-| | royalspin.co.uk ^$important, all
-| | saadilent.ir ^$important, all
-| | sanctumware.net ^$important, all
-| | sarabuysochouses.com ^$important, all
-| | sarahlovenpresets.com ^$important, all
-| | sharingdisini.com ^$important, all
-| | shauncvar.com ^$important, all
-| | sherrypetersphoto.com ^$important, all
-| | slvrlake-denim.com ^$important, all
-| | smokehouseeats.com ^$important, all
-| | softperts.com ^$important, all
-| | spdollar.com ^$important, all
-| | spiralsense.jp ^$important, all
-| | ssc8n2.icu ^$important, all
-| | startupsuriname.com ^$important, all
-| | studiolegalecipriano.com ^$important, all
-| | t-safe.nl ^$important, all
-| | taxkerala.co. in ^$important, all
-| | techbar.me ^$important, all
-| | theguitareffects.com ^$important, all
-| | thisisjess.co.uk ^$important, all
-| | tien-menuisier.fr ^$important, all
-| | timgorichanaz.com ^$important, all
-| | tomtaylorinsurance.com ^$important, all
-| | tran-engineering.ch ^$important, all
-| | traxster.net ^$important, all
-| | truckracing.com.au ^$important, all
-| | turizdoma.ru ^$important, all
-| | ub456.com ^$important, all
-| | varellamotos.com.br ^$important, all
-| | venturellas.com ^$important, all
-| | venuschicago.com ^$important, all
-| | wappingwasteremoval.co.uk ^$important, all
-| | war1418.com ^$important, all
-| | weightedcu.be ^$important, all
-| | wfear.com ^$important, all
-| | williepickensjazz.com ^$important, all
-| | wszgsshyjh.com ^$important, all
-| | wxjdr.com ^$important, all
-| | wyantswalk.net ^$important, all
-| | wyvernware.com ^$important, all
-| | xgfgt.cn ^$important, all
-| | xnxx4porn.com ^$important, all
-| | xyllon.com ^$important, all
-| | yinhe555.net ^$important, all
-| | yourskipper.co.uk ^$important, all
-| | zonahd.org ^$important, all
-| | zoneoccupee.com ^$important, all
+||0519.org^$important,all
+||1111oe.com^$important,all
+||65nq.com^$important,all
+||8-crm.com^$important,all
+||8forum-bahis.com^$important,all
+||adairhomesyakima.com^$important,all
+||adhd-solutions-now.live^$important,all
+||adkinnovations.com^$important,all
+||allinclusivevacationsfan.com^$important,all
+||ambernightdvd.com^$important,all
+||apartmentsbaska.com^$important,all
+||apolloniadentalllc.com^$important,all
+||arthistoryunstuffed.com^$important,all
+||autobars.co.uk^$important,all
+||azbelgium.com^$important,all
+||azuviraza.com^$important,all
+||bandr.com.ua^$important,all
+||bauldenotas.com^$important,all
+||bbphotography.com^$important,all
+||bcuchargers.com^$important,all
+||beckercad.com^$important,all
+||bf-games.net^$important,all
+||bisabet.co^$important,all
+||blasze.com^$important,all
+||bodybuilding.co.uk^$important,all
+||boutikcondosvip.ca^$important,all
+||budgetapotheek.eu^$important,all
+||campbellcontracting.nz^$important,all
+||carolrutgersrealestate.com^$important,all
+||cartouchespourfondationdesbrules.be^$important,all
+||casumocasino.no^$important,all
+||chiangmaihotels.co^$important,all
+||cloudspit.com^$important,all
+||cnliuan.com^$important,all
+||consult4jobs.com^$important,all
+||contemporaryfineart.com^$important,all
+||coremproperties.com^$important,all
+||corporategroup.co.uk^$important,all
+||covenantfinancial.org^$important,all
+||crms.org.sg^$important,all
+||cursosneuromarketing.com^$important,all
+||dangerfieldconsulting.com^$important,all
+||dc1199.com^$important,all
+||detektivconan-tube.com^$important,all
+||dhansz.xyz^$important,all
+||digitalchallenger.com^$important,all
+||doma-uborka.ru^$important,all
+||donebuilders.com^$important,all
+||duoyelou.com^$important,all
+||dwmballet.com^$important,all
+||elitepracticetraining.com^$important,all
+||epay.ir^$important,all
+||estesparkwiki.org^$important,all
+||eyupcelik.com.tr^$important,all
+||fatehmechanicalworks.com.au^$important,all
+||fdufault.com^$important,all
+||filippomascoli.it^$important,all
+||finestherbalist.com^$important,all
+||flash-fm.tk^$important,all
+||foundationk.com^$important,all
+||frame.hosting^$important,all
+||fusionadvisors.in^$important,all
+||fxinvestigate.com^$important,all
+||gain-a-dentalimplantssite.fyi^$important,all
+||gameofstones.com^$important,all
+||garcinia-six.com^$important,all
+||geobug.net^$important,all
+||glhconsulting.hu^$important,all
+||gnoubalarab.com^$important,all
+||greatdebtconsolidationpro.com^$important,all
+||greatnewplaces.com^$important,all
+||griptruckshouston.com^$important,all
+||hackmylife.de^$important,all
+||hamarisafalta.com^$important,all
+||hdringtones.com^$important,all
+||het-wittehuis.nl^$important,all
+||heymistr.com^$important,all
+||hollylsmith.com^$important,all
+||hondapons.com^$important,all
+||ht1.in^$important,all
+||httbuy.com^$important,all
+||impactlc.net^$important,all
+||jackmedway.co.uk^$important,all
+||jameskellywnid.net^$important,all
+||jcintersonic.com^$important,all
+||jeppes.info^$important,all
+||johncharcol.com^$important,all
+||jump4lovescam.com^$important,all
+||kaizennj.com^$important,all
+||kazino-vulkan-play.com^$important,all
+||keris4d.com^$important,all
+||kerseyvalleyaxethrowing.com^$important,all
+||kreatemore.com^$important,all
+||laenergiadeltrigo.com^$important,all
+||landes-terroir.com^$important,all
+||lappas.com.gr^$important,all
+||latinolove.com^$important,all
+||lidian.info^$important,all
+||lynngarytherapy.com^$important,all
+||maahouse.com^$important,all
+||magneticva.com^$important,all
+||mailsquadron.net^$important,all
+||makerlab.ca^$important,all
+||mamamiapizzeriaoffresno.com^$important,all
+||markleppke.com^$important,all
+||masqu3rade.com^$important,all
+||matteodallombra.net^$important,all
+||mbcv.co.il^$important,all
+||menteinovadora.com.br^$important,all
+||mgfetes.fr^$important,all
+||microramcomputers.com^$important,all
+||mlbmusiccity.com^$important,all
+||mmsoa.com^$important,all
+||multitelusa.net^$important,all
+||museumsinamerica.com^$important,all
+||mynews-line.com^$important,all
+||mzwhx.com^$important,all
+||nairn101.me^$important,all
+||naturallyearthfriendly.com^$important,all
+||niculae.net^$important,all
+||nilay.com.br^$important,all
+||olaris.com.au^$important,all
+||opticaforteza.com^$important,all
+||ozonestimulation.com^$important,all
+||packet-radio.net^$important,all
+||papahughes.com.au^$important,all
+||parafiaswtrojcy.pl^$important,all
+||parcoursmed.com^$important,all
+||patrickmurphy.me^$important,all
+||paylessuniformsrgv.com^$important,all
+||pbj-gallery.com^$important,all
+||piyambakan.com^$important,all
+||ppen-timo.de^$important,all
+||prawnik-katowice.pl^$important,all
+||princessofsachempond.com^$important,all
+||progresskarate.com^$important,all
+||publishxpress.com^$important,all
+||puertoricanwomen.info^$important,all
+||purchasingauctions.co.uk^$important,all
+||qaziler.az^$important,all
+||radiosinus.se^$important,all
+||rajskajahorina.com^$important,all
+||redbirdagents.com^$important,all
+||redjezelf.net^$important,all
+||replicasderelogiosaa.com.br^$important,all
+||riboli.it^$important,all
+||rodeonlinesurveys.co.za^$important,all
+||rogermccay.org^$important,all
+||rolypolypuppies.com^$important,all
+||rosylia.net^$important,all
+||royalspin.co.uk^$important,all
+||saadilent.ir^$important,all
+||sanctumware.net^$important,all
+||sarabuysochouses.com^$important,all
+||sarahlovenpresets.com^$important,all
+||sharingdisini.com^$important,all
+||shauncvar.com^$important,all
+||sherrypetersphoto.com^$important,all
+||slvrlake-denim.com^$important,all
+||smokehouseeats.com^$important,all
+||softperts.com^$important,all
+||spdollar.com^$important,all
+||spiralsense.jp^$important,all
+||ssc8n2.icu^$important,all
+||startupsuriname.com^$important,all
+||studiolegalecipriano.com^$important,all
+||t-safe.nl^$important,all
+||taxkerala.co.in^$important,all
+||techbar.me^$important,all
+||theguitareffects.com^$important,all
+||thisisjess.co.uk^$important,all
+||tien-menuisier.fr^$important,all
+||timgorichanaz.com^$important,all
+||tomtaylorinsurance.com^$important,all
+||tran-engineering.ch^$important,all
+||traxster.net^$important,all
+||truckracing.com.au^$important,all
+||turizdoma.ru^$important,all
+||ub456.com^$important,all
+||varellamotos.com.br^$important,all
+||venturellas.com^$important,all
+||venuschicago.com^$important,all
+||wappingwasteremoval.co.uk^$important,all
+||war1418.com^$important,all
+||weightedcu.be^$important,all
+||wfear.com^$important,all
+||williepickensjazz.com^$important,all
+||wszgsshyjh.com^$important,all
+||wxjdr.com^$important,all
+||wyantswalk.net^$important,all
+||wyvernware.com^$important,all
+||xgfgt.cn^$important,all
+||xnxx4porn.com^$important,all
+||xyllon.com^$important,all
+||yinhe555.net^$important,all
+||yourskipper.co.uk^$important,all
+||zonahd.org^$important,all
+||zoneoccupee.com^$important,all
 ###########################
 # PS3CFW Loggers #
 # Last Updated: 27.1.2020 #
 ###########################
-| | 00689.net ^$important, all
-| | 2222yo.com ^$important, all
-| | 760tv.com ^$important, all
-| | 95277h.com ^$important, all
-| | adultsex.world ^$important, all
-| | adventuresofcitizenx.com ^$important, all
-| | alarmanlage-hannover.de ^$important, all
-| | alburyaccounting.com.au ^$important, all
-| | alittleofwhatyoufancy.info ^$important, all
-| | ankety-shalav.xyz ^$important, all
-| | antennalaminates.com ^$important, all
-| | arnaell.com ^$important, all
-| | askdarcel.org ^$important, all
-| | associazionenoborders.org ^$important, all
-| | atlanticcustombrokers.com ^$important, all
-| | azyda.ru ^$important, all
-| | backcountrywater.info ^$important, all
-| | be-a-seniorcomputerskillsok.live ^$important, all
-| | be-in-goas-ok.live ^$important, all
-| | bedandbarn.com ^$important, all
-| | beijingguidebook.com ^$important, all
-| | bensalem215locksmith.com ^$important, all
-| | bestaquariumpicks.com ^$important, all
-| | bestwebsitesfast.com ^$important, all
-| | birsighof.ch ^$important, all
-| | biuro-adwokackie.pl ^$important, all
-| | bunnygo.net ^$important, all
-| | cadentalimplantspage.com ^$important, all
-| | carsonstreeservices.com ^$important, all
-| | centenarulromaniei.ro ^$important, all
-| | chicagocutsteakhouse.com ^$important, all
-| | cineconchile.com ^$important, all
-| | communitypulse.io ^$important, all
-| | csclientes.com.mx ^$important, all
-| | cyclingshorts.uk.com ^$important, all
-| | dietlens.com ^$important, all
-| | diginetz.de ^$important, all
-| | diligenceinternational.com ^$important, all
-| | divorcesols.co.uk ^$important, all
-| | donardglencamogie.com ^$important, all
-| | dondemequedo.com ^$important, all
-| | dr-nils-kaiser.com ^$important, all
-| | drivoferreira.com ^$important, all
-| | electroweb.be ^$important, all
-| | esnetmx.com ^$important, all
-| | expread.io ^$important, all
-| | eyesopensocialmediasafety.com.au ^$important, all
-| | f95qpuvjo.com ^$important, all
-| | fetchageneraleducation.com ^$important, all
-| | flybynet.com.ar ^$important, all
-| | fortmyers-mortgage.com ^$important, all
-| | gedichten-voor-iedereen.com ^$important, all
-| | ggclk.com ^$important, all
-| | glenelgorthopaedics.com.au ^$important, all
-| | gwbdt.com ^$important, all
-| | haveadentalimplantsshop.com ^$important, all
-| | heathlylifestyleguide.com ^$important, all
-| | hongkongtower-kanglong.com ^$important, all
-| | impactprintingdenver.com ^$important, all
-| | infopi.co ^$important, all
-| | inspiratorfreak.com ^$important, all
-| | inspiring-sustainability.com ^$important, all
-| | interventionspecialists.com ^$important, all
-| | ipc360.org ^$important, all
-| | jamoontree.net ^$important, all
-| | jbehrmusic.com ^$important, all
-| | jfpronline.info ^$important, all
-| | juancarloscubeiro.com ^$important, all
-| | kangyulai.com ^$important, all
-| | kankandm.com ^$important, all
-| | kepmarathon.com ^$important, all
-| | legalbarcode.com ^$important, all
-| | lithoessa.gr ^$important, all
-| | longerdependent.com ^$important, all
-| | lumomongoose.com ^$important, all
-| | magicminutes.co.uk ^$important, all
-| | marie-robin.fr ^$important, all
-| | mc183.com ^$important, all
-| | mid-coast-tire.com ^$important, all
-| | mototech.co.il ^$important, all
-| | mulletsighting.com ^$important, all
-| | myorange.co ^$important, all
-| | myown42.com ^$important, all
-| | nakedglamsexpertise.com ^$important, all
-| | nationwidepeople.com ^$important, all
-| | ninjax.io ^$important, all
-| | nubilespics.com ^$important, all
-| | opexchange.com ^$important, all
-| | oxyo2.com ^$important, all
-| | parfems.sk ^$important, all
-| | patita.tk ^$important, all
-| | plumcafebistro.com ^$important, all
-| | profilebakanlar.com ^$important, all
-| | ps3cfw.com ^$important, all
-| | puertoricotours.us ^$important, all
-| | quit-smoking-today.info ^$important, all
-| | realestatecallsagency.com ^$important, all
-| | restauracenanove.cz ^$important, all
-| | revokedmob.com ^$important, all
-| | ro-casinogames.com ^$important, all
-| | rodeostampedehack.pro ^$important, all
-| | safeemergency.com ^$important, all
-| | selectivparfumes.ru ^$important, all
-| | sellarafaeli.com ^$important, all
-| | sevilladentalcare.com ^$important, all
-| | shvana.com ^$important, all
-| | sma-norge.no ^$important, all
-| | smsolutions.co. in ^$important, all
-| | sortrashion.com ^$important, all
-| | srt.icu ^$important, all
-| | stephenfarrell.io ^$important, all
-| | stisla.com ^$important, all
-| | sudburyautoglass.ca ^$important, all
-| | sunbeach.fr ^$important, all
-| | supnim.com ^$important, all
-| | techniche.org. in ^$important, all
-| | teknist.xyz ^$important, all
-| | tentcity4.info ^$important, all
-| | thebubbleprocess.com ^$important, all
-| | thegenerouschef.com ^$important, all
-| | theunderheard.com ^$important, all
-| | timberyart.gr ^$important, all
-| | tvmacs.com ^$important, all
-| | txhomeinsurance.com ^$important, all
-| | velis.fr ^$important, all
-| | vendoradvocatemelb.com.au ^$important, all
-| | vietnamquehuong.com ^$important, all
-| | vivamariapizza.com ^$important, all
-| | vnb77.com ^$important, all
-| | vuthanhluan.com ^$important, all
-| | winjudi77.biz ^$important, all
-| | xanahouse1.com ^$important, all
-| | xxoo6.com ^$important, all
-| | xyyiyuan.cn ^$important, all
-| | yesfifa.com ^$important, all
-| | ymo.co.za ^$important, all
-| | yoshikanegroup.com ^$important, all
-| | youlikehookups.com ^$important, all
-| | yukongoldextremeapp.com ^$important, all
-| | yymoli.net ^$important, all
+||00689.net^$important,all
+||2222yo.com^$important,all
+||760tv.com^$important,all
+||95277h.com^$important,all
+||adultsex.world^$important,all
+||adventuresofcitizenx.com^$important,all
+||alarmanlage-hannover.de^$important,all
+||alburyaccounting.com.au^$important,all
+||alittleofwhatyoufancy.info^$important,all
+||ankety-shalav.xyz^$important,all
+||antennalaminates.com^$important,all
+||arnaell.com^$important,all
+||askdarcel.org^$important,all
+||associazionenoborders.org^$important,all
+||atlanticcustombrokers.com^$important,all
+||azyda.ru^$important,all
+||backcountrywater.info^$important,all
+||be-a-seniorcomputerskillsok.live^$important,all
+||be-in-goas-ok.live^$important,all
+||bedandbarn.com^$important,all
+||beijingguidebook.com^$important,all
+||bensalem215locksmith.com^$important,all
+||bestaquariumpicks.com^$important,all
+||bestwebsitesfast.com^$important,all
+||birsighof.ch^$important,all
+||biuro-adwokackie.pl^$important,all
+||bunnygo.net^$important,all
+||cadentalimplantspage.com^$important,all
+||carsonstreeservices.com^$important,all
+||centenarulromaniei.ro^$important,all
+||chicagocutsteakhouse.com^$important,all
+||cineconchile.com^$important,all
+||communitypulse.io^$important,all
+||csclientes.com.mx^$important,all
+||cyclingshorts.uk.com^$important,all
+||dietlens.com^$important,all
+||diginetz.de^$important,all
+||diligenceinternational.com^$important,all
+||divorcesols.co.uk^$important,all
+||donardglencamogie.com^$important,all
+||dondemequedo.com^$important,all
+||dr-nils-kaiser.com^$important,all
+||drivoferreira.com^$important,all
+||electroweb.be^$important,all
+||esnetmx.com^$important,all
+||expread.io^$important,all
+||eyesopensocialmediasafety.com.au^$important,all
+||f95qpuvjo.com^$important,all
+||fetchageneraleducation.com^$important,all
+||flybynet.com.ar^$important,all
+||fortmyers-mortgage.com^$important,all
+||gedichten-voor-iedereen.com^$important,all
+||ggclk.com^$important,all
+||glenelgorthopaedics.com.au^$important,all
+||gwbdt.com^$important,all
+||haveadentalimplantsshop.com^$important,all
+||heathlylifestyleguide.com^$important,all
+||hongkongtower-kanglong.com^$important,all
+||impactprintingdenver.com^$important,all
+||infopi.co^$important,all
+||inspiratorfreak.com^$important,all
+||inspiring-sustainability.com^$important,all
+||interventionspecialists.com^$important,all
+||ipc360.org^$important,all
+||jamoontree.net^$important,all
+||jbehrmusic.com^$important,all
+||jfpronline.info^$important,all
+||juancarloscubeiro.com^$important,all
+||kangyulai.com^$important,all
+||kankandm.com^$important,all
+||kepmarathon.com^$important,all
+||legalbarcode.com^$important,all
+||lithoessa.gr^$important,all
+||longerdependent.com^$important,all
+||lumomongoose.com^$important,all
+||magicminutes.co.uk^$important,all
+||marie-robin.fr^$important,all
+||mc183.com^$important,all
+||mid-coast-tire.com^$important,all
+||mototech.co.il^$important,all
+||mulletsighting.com^$important,all
+||myorange.co^$important,all
+||myown42.com^$important,all
+||nakedglamsexpertise.com^$important,all
+||nationwidepeople.com^$important,all
+||ninjax.io^$important,all
+||nubilespics.com^$important,all
+||opexchange.com^$important,all
+||oxyo2.com^$important,all
+||parfems.sk^$important,all
+||patita.tk^$important,all
+||plumcafebistro.com^$important,all
+||profilebakanlar.com^$important,all
+||ps3cfw.com^$important,all
+||puertoricotours.us^$important,all
+||quit-smoking-today.info^$important,all
+||realestatecallsagency.com^$important,all
+||restauracenanove.cz^$important,all
+||revokedmob.com^$important,all
+||ro-casinogames.com^$important,all
+||rodeostampedehack.pro^$important,all
+||safeemergency.com^$important,all
+||selectivparfumes.ru^$important,all
+||sellarafaeli.com^$important,all
+||sevilladentalcare.com^$important,all
+||shvana.com^$important,all
+||sma-norge.no^$important,all
+||smsolutions.co.in^$important,all
+||sortrashion.com^$important,all
+||srt.icu^$important,all
+||stephenfarrell.io^$important,all
+||stisla.com^$important,all
+||sudburyautoglass.ca^$important,all
+||sunbeach.fr^$important,all
+||supnim.com^$important,all
+||techniche.org.in^$important,all
+||teknist.xyz^$important,all
+||tentcity4.info^$important,all
+||thebubbleprocess.com^$important,all
+||thegenerouschef.com^$important,all
+||theunderheard.com^$important,all
+||timberyart.gr^$important,all
+||tvmacs.com^$important,all
+||txhomeinsurance.com^$important,all
+||velis.fr^$important,all
+||vendoradvocatemelb.com.au^$important,all
+||vietnamquehuong.com^$important,all
+||vivamariapizza.com^$important,all
+||vnb77.com^$important,all
+||vuthanhluan.com^$important,all
+||winjudi77.biz^$important,all
+||xanahouse1.com^$important,all
+||xxoo6.com^$important,all
+||xyyiyuan.cn^$important,all
+||yesfifa.com^$important,all
+||ymo.co.za^$important,all
+||yoshikanegroup.com^$important,all
+||youlikehookups.com^$important,all
+||yukongoldextremeapp.com^$important,all
+||yymoli.net^$important,all
 
 # Idna compliant
 # grabify.link
-| | xn--yotu-1ra.be ^$important, all
-| | xn--rddt-lpa0a.com ^$important, all
-| | xn--yotu-1ra.be ^$important, all
-| | xn--srahah-bua.eu ^$important, all
-| | xn--discrd-zxa.com ^$important, all
-| | xn--srahah-bua.pl ^$important, all
-| | xn--yutube-iqc.com ^$important, all
+||xn--yotu-1ra.be^$important,all
+||xn--rddt-lpa0a.com^$important,all
+||xn--yotu-1ra.be^$important,all
+||xn--srahah-bua.eu^$important,all
+||xn--discrd-zxa.com^$important,all
+||xn--srahah-bua.pl^$important,all
+||xn--yutube-iqc.com^$important,all
 
 # Inactive #
-| | xn--sptify-xxa.com ^$important, all
-| | xn--yotbe-lvab.co ^$important, all
-| | xn--yotbe-lvab.com ^$important, all
-| | xn--hackfrums-ksd.net ^$important, all
-| | xn--hackfrums-ksd.com ^$important, all
-| | xn--imgr-sra.com ^$important, all
-| | xn--battl-b0a.net ^$important, all
-| | xn--disordapp-2eb.com ^$important, all
-| | xn--twiter-rkb.com ^$important, all
-| | xn--yotbe-lvab.co ^$important, all
-| | xn--yotbe-lvab.com ^$important, all
-| | xn--yutube-3wa.com ^$important, all
-| | xn--gur-mma9668a.com ^$important, all
-| | xn--oole-9wao.com ^$important, all
-| | xn--shrt-6qa.co ^$important, all
+||xn--sptify-xxa.com^$important,all
+||xn--yotbe-lvab.co^$important,all
+||xn--yotbe-lvab.com^$important,all
+||xn--hackfrums-ksd.net^$important,all
+||xn--hackfrums-ksd.com^$important,all
+||xn--imgr-sra.com^$important,all
+||xn--battl-b0a.net^$important,all
+||xn--disordapp-2eb.com^$important,all
+||xn--twiter-rkb.com^$important,all
+||xn--yotbe-lvab.co^$important,all
+||xn--yotbe-lvab.com^$important,all
+||xn--yutube-3wa.com ^$important,all
+||xn--gur-mma9668a.com^$important,all
+||xn--oole-9wao.com^$important,all
+||xn--shrt-6qa.co^$important,all
 
 # PS3CFW Loggers
-| | xn--zqsu8k5y0b.com ^$important, all
+||xn--zqsu8k5y0b.com^$important,all
