@@ -10,7 +10,7 @@
 #################################
 # Main IP Loggers #
 # Part 1-Scroll Down for Part 2 #
-# Last Updated: 12.11.2020 #
+# Last Updated: 02.08.2022 #
 #################################
 
 # Main: grabify.link
@@ -72,6 +72,7 @@
 ||watches-my.stream^$important,all
 ||alanlindsay.net^$important,all
 ||asianrbtrade.net^$important,all
+||myprivate.pics^$important,all
 
 # Main: iplogger.org
 ||iplogger.org^$important,all
