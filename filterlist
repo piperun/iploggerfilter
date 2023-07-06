@@ -159,8 +159,8 @@
 ||adfly-bot.online^$important,all
 
 #Main: grabify.icu
-||grabify.icu^important,all
-||maifile.cn^important,all
+||grabify.icu^$important,all
+||maifile.cn^$important,all
 
 #Main: myiptest.com
 ||myiptest.com^$important,all
