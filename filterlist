@@ -166,6 +166,10 @@
 ||myiptest.com^$important,all
 ||myiptest.com/img.php^$important,all
 
+#Main: ythingy.com
+# - This site trys to make it look legit by a fake error (it is a part of ip-trap.com)
+||ythingy.com^$important,all
+
 ###########################
 # Unsorted #
 # Last Updated: - #
