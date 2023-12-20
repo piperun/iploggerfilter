@@ -1,6 +1,6 @@
 ! Title: Piperun's IP-Logger Filter
 ! Expires: 3 days
-! Last modified: 09 October 2021
+! Last modified: 20 December 2023
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! Contribute: https://github.com/piperun/iploggerfilter/issues
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
@@ -165,6 +165,10 @@
 #Main: myiptest.com
 ||myiptest.com^$important,all
 ||myiptest.com/img.php^$important,all
+
+#Main: ip-trap.com
+||ip-trap.com^$important,all
+||ythingy.com^$important,all
 
 ###########################
 # Unsorted #
